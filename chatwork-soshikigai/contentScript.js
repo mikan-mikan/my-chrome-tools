@@ -31,6 +31,7 @@ const loaderObserverOptions = {
 const loaderObserver = new MutationObserver(loaderObserverCallback);
 loaderObserver.observe(loader, loaderObserverOptions);
 
+// 組織外ユーザーの監視を開始
 const checkExtraMarkObserverCallback = (mutationsList, observer) => {
   for (const mutation of mutationsList) {
     if (mutation.type === "childList" || mutation.type === "subtree") {
@@ -38,8 +39,6 @@ const checkExtraMarkObserverCallback = (mutationsList, observer) => {
     }
   }
 };
-
-// 組織外ユーザーの監視を開始
 const checkExtraMarkObserverOptions = {
   childList: true, // 直接の子要素の変更を監視
   subtree: true, // すべての子孫要素の変更も監視
