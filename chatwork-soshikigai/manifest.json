@@ -1,7 +1,7 @@
 {
-  "manifest_version": 2,
+  "manifest_version": 3,
   "name": "組織外ユーザー識別 for Chatwork",
-  "version": "1.0",
+  "version": "1.0.0",
   "description": "チャットワークのチャットルームで組織外ユーザーがいるかどうかを分かりやすくします。",
   "permissions": [
     "activeTab"
@@ -12,5 +12,11 @@
       "js": ["contentScript.js"],
       "run_at": "document_end"
     }
-  ]
+  ],
+  "icons": {
+    "16": "images/icon16.png",
+    "32": "images/icon32.png",
+    "48": "images/icon48.png",
+    "128": "images/icon128.png"
+  }
 }
