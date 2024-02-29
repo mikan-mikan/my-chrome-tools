@@ -3,9 +3,6 @@
   "name": "組織外ユーザー識別 for Chatwork",
   "version": "1.0.0",
   "description": "チャットワークのチャットルームで組織外ユーザーがいるかどうかを分かりやすくします。",
-  "permissions": [
-    "activeTab"
-  ],
   "content_scripts": [
     {
       "matches": ["*://*.chatwork.com/*"],
