@@ -1,0 +1,25 @@
+{
+  "manifest_version": 3,
+  "name": "Mumei Color",
+  "version": "1.0.0",
+  "description": "",
+  "theme": {
+    "colors": {
+      "frame": [232, 222, 216],
+      "frame_inactive": [232, 222, 216],
+      "toolbar": [51, 39, 40],
+      "tab_text": [255, 255, 255],
+      "tab_background_text": [255, 255, 255],
+      "bookmark_text": [255, 255, 255],
+      "ntp_background": [51, 39, 40],
+      "ntp_text": [255, 255, 255],
+      "ntp_link": [255, 255, 255],
+      "button_background": [108, 89, 70, 1],
+      "toolbar_button_icon": [255, 255, 255],
+      "background_tab": [80,123,140],
+      "background_tab_inactive": [135, 181, 200],
+      "tab_background_text_inactive": [255, 255, 255]
+    },
+    "tints": { "buttons": [0, 0, 1] }
+  }
+}
