@@ -5,19 +5,19 @@
   "description": "",
   "theme": {
     "colors": {
-      "frame": [232, 222, 216],
-      "frame_inactive": [232, 222, 216],
+      "frame": [229, 211, 189],
+      "frame_inactive": [229, 211, 189],
       "toolbar": [51, 39, 40],
       "tab_text": [255, 255, 255],
       "tab_background_text": [255, 255, 255],
       "bookmark_text": [255, 255, 255],
-      "ntp_background": [51, 39, 40],
+      "ntp_background": [119, 92, 85],
       "ntp_text": [255, 255, 255],
       "ntp_link": [255, 255, 255],
-      "button_background": [108, 89, 70, 1],
+      "button_background": [255, 255, 255],
       "toolbar_button_icon": [255, 255, 255],
-      "background_tab": [80,123,140],
-      "background_tab_inactive": [135, 181, 200],
+      "background_tab": [102, 142, 145],
+      "background_tab_inactive": [106, 149, 154],
       "tab_background_text_inactive": [255, 255, 255]
     },
     "tints": { "buttons": [0, 0, 1] }
