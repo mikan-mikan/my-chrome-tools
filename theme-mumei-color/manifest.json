@@ -2,7 +2,7 @@
   "manifest_version": 3,
   "name": "Mumei Color",
   "version": "1.0.0",
-  "description": "",
+  "description": "Themes for people who like Mumei.",
   "theme": {
     "colors": {
       "frame": [229, 211, 189],
