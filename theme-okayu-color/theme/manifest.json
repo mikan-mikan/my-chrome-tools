@@ -1,0 +1,24 @@
+{
+  "manifest_version": 3,
+  "name": "Okayu Color",
+  "version": "1.0.0",
+  "description": "Themes for people who like Okayu.",
+  "theme": {
+    "colors": {
+      "frame": [130, 96, 165],
+      "frame_inactive": [130, 96, 165],
+      "toolbar": [57, 41, 74],
+      "tab_text": [255, 255, 255],
+      "tab_background_text": [57, 41, 74],
+      "bookmark_text": [255, 255, 255],
+      "ntp_background": [220, 198, 223],
+      "ntp_text": [57, 41, 74],
+      "ntp_link": [57, 41, 74],
+      "button_background": [255, 255, 255],
+      "toolbar_button_icon": [255, 255, 255],
+      "background_tab": [220, 198, 223],
+      "background_tab_inactive": [220, 198, 223],
+      "tab_background_text_inactive": [57, 41, 74]
+    }
+  }
+}

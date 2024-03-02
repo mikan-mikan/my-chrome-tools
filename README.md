@@ -8,3 +8,4 @@
 ## テーマ
 
 1. [Mumei Color](./theme-mumei-color/)
+2. [Okayu Color](./theme-okayu-color/)
