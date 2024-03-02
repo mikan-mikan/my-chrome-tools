@@ -1,24 +1,24 @@
 {
   "manifest_version": 3,
   "name": "Miko Color",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Themes for people who like Miko.",
   "theme": {
     "colors": {
       "frame": [244, 238, 230],
       "frame_inactive": [244, 238, 230],
-      "toolbar": [219, 70, 100],
+      "toolbar": [187, 63, 88],
       "tab_text": [255, 255, 255],
       "tab_background_text": [255, 255, 255],
       "bookmark_text": [255, 255, 255],
       "ntp_background": [244, 238, 230],
-      "ntp_text": [219, 70, 100],
-      "ntp_link": [219, 70, 100],
+      "ntp_text": [187, 63, 88],
+      "ntp_link": [187, 63, 88],
       "button_background": [243, 156, 147],
       "toolbar_button_icon": [255, 255, 255],
       "background_tab": [243, 156, 147],
       "background_tab_inactive": [243, 156, 147],
-      "tab_background_text_inactive": [219, 70, 100]
+      "tab_background_text_inactive": [187, 63, 88]
     }
   }
 }
