@@ -9,3 +9,4 @@
 
 1. [Mumei Color](./theme-mumei-color/)
 2. [Okayu Color](./theme-okayu-color/)
+3. [Miko Color](./theme-miko-color/)
