@@ -1,0 +1,24 @@
+{
+  "manifest_version": 3,
+  "name": "Choco Color",
+  "version": "1.0.0",
+  "description": "Themes for people who like Choco.",
+  "theme": {
+    "colors": {
+      "frame": [236, 169, 175],
+      "frame_inactive": [236, 169, 175],
+      "toolbar": [217, 87, 99],
+      "tab_text": [250, 230, 231],
+      "tab_background_text": [217, 87, 99],
+      "bookmark_text": [250, 230, 231],
+      "ntp_background": [250, 230, 231],
+      "ntp_text": [0, 3, 34],
+      "ntp_link": [0, 3, 34],
+      "button_background": [236, 169, 175],
+      "toolbar_button_icon": [245, 219, 163],
+      "background_tab": [244, 228, 229],
+      "background_tab_inactive": [250, 230, 231],
+      "tab_background_text_inactive": [217, 87, 99]
+    }
+  }
+}

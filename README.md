@@ -14,3 +14,4 @@
 5. [Iroha Color](./theme/theme-iroha-color/)
 6. [Suberu Color](./theme/theme-subaru-color/)
 7. [Luna Color](./theme/theme-luna-color/)
+8. [Choco Color](./theme/theme-choco-color/)
