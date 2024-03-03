@@ -7,10 +7,10 @@
 
 ## テーマ
 
-1. [Mumei Color](./theme-mumei-color/)
-2. [Okayu Color](./theme-okayu-color/)
-3. [Miko Color](./theme-miko-color/)
-4. [Suisei Color](./theme-suisei-color/)
-5. [Iroha Color](./theme-iroha-color/)
-6. [Suberu Color](./theme-subaru-color/)
-7. [Luna Color](./theme-luna-color/)
+1. [Mumei Color](./theme/theme-mumei-color/)
+2. [Okayu Color](./theme/theme-okayu-color/)
+3. [Miko Color](./theme/theme-miko-color/)
+4. [Suisei Color](./theme/theme-suisei-color/)
+5. [Iroha Color](./theme/theme-iroha-color/)
+6. [Suberu Color](./theme/theme-subaru-color/)
+7. [Luna Color](./theme/theme-luna-color/)
