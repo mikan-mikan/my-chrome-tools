@@ -1,7 +1,7 @@
 {
   "manifest_version": 3,
   "name": "Mumei Color",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Themes for people who like Mumei.",
   "theme": {
     "colors": {
@@ -15,7 +15,7 @@
       "ntp_text": [229, 211, 189],
       "ntp_link": [229, 211, 189],
       "button_background": [229, 211, 189],
-      "toolbar_button_icon": [255, 255, 255],
+      "toolbar_button_icon": [229, 211, 189],
       "background_tab": [102, 142, 145],
       "background_tab_inactive": [106, 149, 154],
       "tab_background_text_inactive": [51, 39, 40]
