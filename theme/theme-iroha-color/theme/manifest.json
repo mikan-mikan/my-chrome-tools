@@ -1,23 +1,23 @@
 {
   "manifest_version": 3,
   "name": "Iroha Color",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Themes for people who like Iroha.",
   "theme": {
     "colors": {
       "frame": [249, 237, 230],
       "frame_inactive": [249, 237, 230],
       "toolbar": [9, 126, 115],
-      "tab_text": [249, 237, 230],
+      "tab_text": [215, 229, 222],
       "tab_background_text": [9, 169, 155],
-      "bookmark_text": [249, 237, 230],
+      "bookmark_text": [215, 229, 222],
       "ntp_background": [249, 237, 230],
       "ntp_text": [9, 126, 115],
       "ntp_link": [9, 126, 115],
-      "button_background": [9, 169, 155],
-      "toolbar_button_icon": [249, 237, 230],
-      "background_tab": [167, 216, 204],
-      "background_tab_inactive": [167, 216, 204],
+      "button_background": [249, 237, 230],
+      "toolbar_button_icon": [215, 229, 222],
+      "background_tab": [206, 226, 216],
+      "background_tab_inactive": [206, 226, 216],
       "tab_background_text_inactive": [255, 255, 255]
     }
   }
