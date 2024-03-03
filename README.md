@@ -13,3 +13,4 @@
 4. [Suisei Color](./theme-suisei-color/)
 5. [Iroha Color](./theme-iroha-color/)
 6. [Suberu Color](./theme-subaru-color/)
+7. [Luna Color](./theme-luna-color/)
