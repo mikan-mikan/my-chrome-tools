@@ -1,0 +1,24 @@
+{
+  "manifest_version": 3,
+  "name": "Subaru Color",
+  "version": "1.0.0",
+  "description": "Themes for people who like Subaru.",
+  "theme": {
+    "colors": {
+      "frame": [193, 40, 0],
+      "frame_inactive": [193, 40, 0],
+      "toolbar": [188, 197, 66],
+      "tab_text": [50, 96, 101],
+      "tab_background_text": [50, 96, 101],
+      "bookmark_text": [50, 96, 101],
+      "ntp_background": [255, 245, 237],
+      "ntp_text": [50, 96, 101],
+      "ntp_link": [50, 96, 101],
+      "button_background": [255, 255, 255],
+      "toolbar_button_icon": [ 50, 96, 101],
+      "background_tab": [112, 158, 155],
+      "background_tab_inactive": [112, 158, 155],
+      "tab_background_text_inactive": [97, 138, 142]
+    }
+  }
+}

@@ -12,3 +12,4 @@
 3. [Miko Color](./theme-miko-color/)
 4. [Suisei Color](./theme-suisei-color/)
 5. [Iroha Color](./theme-iroha-color/)
+6. [Suberu Color](./theme-subaru-color/)
