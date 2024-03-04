@@ -15,3 +15,4 @@
 6. [Suberu Color](./theme/theme-subaru-color/)
 7. [Luna Color](./theme/theme-luna-color/)
 8. [Choco Color](./theme/theme-choco-color/)
+9. [Botan Color](./theme/theme-botan-color/)

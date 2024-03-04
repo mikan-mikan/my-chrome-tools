@@ -1,0 +1,24 @@
+{
+  "manifest_version": 3,
+  "name": "Botan Color",
+  "version": "1.0.0",
+  "description": "Themes for people who like Botan.",
+  "theme": {
+    "colors": {
+      "frame": [217, 211, 209],
+      "frame_inactive": [217, 211, 209],
+      "toolbar": [172, 160, 156],
+      "tab_text": [62, 53, 60],
+      "tab_background_text": [102, 107, 60],
+      "bookmark_text": [62, 53, 60],
+      "ntp_background": [242, 234, 231],
+      "ntp_text": [62, 53, 60],
+      "ntp_link": [62, 53, 60],
+      "button_background": [217, 211, 209],
+      "toolbar_button_icon": [62, 53, 60],
+      "background_tab": [186, 191, 147],
+      "background_tab_inactive": [186, 191, 147],
+      "tab_background_text_inactive": [102, 107, 60]
+    }
+  }
+}
