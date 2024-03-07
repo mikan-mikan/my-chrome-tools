@@ -1,0 +1,24 @@
+{
+  "manifest_version": 3,
+  "name": "Aki Color",
+  "version": "1.0.0",
+  "description": "Themes for people who like Aki.",
+  "theme": {
+    "colors": {
+      "frame": [185, 206, 254],
+      "frame_inactive": [185, 206, 254],
+      "toolbar": [73, 94, 180],
+      "tab_text": [255, 255, 255],
+      "tab_background_text": [255, 255, 255],
+      "bookmark_text": [255, 255, 255],
+      "ntp_background": [214, 227, 255],
+      "ntp_text": [73, 94, 180],
+      "ntp_link": [73, 94, 180],
+      "button_background": [185, 206, 254],
+      "toolbar_button_icon": [159, 255, 68],
+      "background_tab": [205, 163, 220],
+      "background_tab_inactive": [205, 163, 220],
+      "tab_background_text_inactive": [73, 94, 180]
+    }
+  }
+}
