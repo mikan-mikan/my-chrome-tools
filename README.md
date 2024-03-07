@@ -16,3 +16,5 @@
 7. [Luna Color](./theme/theme-luna-color/)
 8. [Choco Color](./theme/theme-choco-color/)
 9. [Botan Color](./theme/theme-botan-color/)
+10. [Aki Color](./theme/theme-aki-color/)
+11. [Coco Color](./theme/theme-coco-color/)
