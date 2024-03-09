@@ -18,3 +18,5 @@
 9. [Botan Color](./theme/theme-botan-color/)
 10. [Aki Color](./theme/theme-aki-color/)
 11. [Coco Color](./theme/theme-coco-color/)
+12. [Fubuki Color](./theme/theme-fubuki-color/)
+13. [Sora Color](./theme/theme-sora-color/)
