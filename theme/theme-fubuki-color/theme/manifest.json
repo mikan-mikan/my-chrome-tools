@@ -1,0 +1,24 @@
+{
+  "manifest_version": 3,
+  "name": "Fubuki Color",
+  "version": "1.0.0",
+  "description": "Themes for people who like Fubuki.",
+  "theme": {
+    "colors": {
+      "frame": [241, 243, 247],
+      "frame_inactive": [241, 243, 247],
+      "toolbar": [229,231,239],
+      "tab_text": [63, 59, 65],
+      "tab_background_text": [63, 59, 65],
+      "bookmark_text": [50, 96, 101],
+      "ntp_background": [204, 233, 242],
+      "ntp_text": [63, 59, 65],
+      "ntp_link": [63, 59, 65],
+      "button_background": [241, 243, 247],
+      "toolbar_button_icon": [63, 59, 65],
+      "background_tab": [180, 227, 238],
+      "background_tab_inactive": [180, 227, 238],
+      "tab_background_text_inactive": [63, 59, 65]
+    }
+  }
+}
