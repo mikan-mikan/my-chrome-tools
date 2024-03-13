@@ -21,3 +21,4 @@
 12. [Fubuki Color](https://chromewebstore.google.com/detail/fubuki-color/kpajdkajohdhhemnknlahnhcekbpopac)
 13. [Sora Color](https://chromewebstore.google.com/detail/sora-color/igdphjbabjpecnkplajjdhbapmmohlhe)
 14. Mio Color
+15. Towa Color

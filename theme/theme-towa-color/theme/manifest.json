@@ -1,0 +1,24 @@
+{
+  "manifest_version": 3,
+  "name": "Towa Color",
+  "version": "1.0.0",
+  "description": "Themes for people who like Towa.",
+  "theme": {
+    "colors": {
+      "frame": [178, 146, 204],
+      "frame_inactive": [178, 146, 204],
+      "toolbar": [65, 61, 77],
+      "tab_text": [218, 239, 64],
+      "tab_background_text": [255, 255, 255],
+      "bookmark_text": [218, 239, 64],
+      "ntp_background": [200, 175, 217],
+      "ntp_text": [65, 61, 77],
+      "ntp_link": [65, 61, 77],
+      "button_background": [178, 146, 204],
+      "toolbar_button_icon": [237, 42, 168],
+      "background_tab": [200, 175, 217],
+      "background_tab_inactive": [200, 175, 217],
+      "tab_background_text_inactive": [65, 61, 77]
+    }
+  }
+}
