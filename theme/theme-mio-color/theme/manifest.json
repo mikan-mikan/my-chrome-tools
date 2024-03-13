@@ -1,0 +1,24 @@
+{
+  "manifest_version": 3,
+  "name": "Mio Color",
+  "version": "1.0.0",
+  "description": "Themes for people who like Mio.",
+  "theme": {
+    "colors": {
+      "frame": [124, 123, 123],
+      "frame_inactive": [124, 123, 123],
+      "toolbar": [50, 48, 48],
+      "tab_text": [233, 224, 235],
+      "tab_background_text": [233, 224, 235],
+      "bookmark_text": [233, 224, 235],
+      "ntp_background": [139, 63, 71],
+      "ntp_text": [233, 224, 235],
+      "ntp_link": [233, 224, 235],
+      "button_background": [124, 123, 123],
+      "toolbar_button_icon": [255, 212, 97],
+      "background_tab": [139, 63, 71],
+      "background_tab_inactive": [139, 63, 71],
+      "tab_background_text_inactive": [233, 224, 235]
+    }
+  }
+}
