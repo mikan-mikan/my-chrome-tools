@@ -1,0 +1,24 @@
+{
+  "manifest_version": 3,
+  "name": "Robocosan Color",
+  "version": "1.0.0",
+  "description": "Themes for people who like Robocosan.",
+  "theme": {
+    "colors": {
+      "frame": [184, 153, 169],
+      "frame_inactive": [184, 153, 169],
+      "toolbar": [111, 47, 79],
+      "tab_text": [255, 255, 255],
+      "tab_background_text": [255, 255, 255],
+      "bookmark_text": [255, 255, 255],
+      "ntp_background": [192, 132, 158],
+      "ntp_text": [111, 47, 79],
+      "ntp_link": [111, 47, 79],
+      "button_background": [184, 153, 169],
+      "toolbar_button_icon": [255, 109, 165],
+      "background_tab": [101, 74, 81],
+      "background_tab_inactive": [101, 74, 81],
+      "tab_background_text_inactive": [255, 255, 255]
+    }
+  }
+}

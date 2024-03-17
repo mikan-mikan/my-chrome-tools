@@ -20,5 +20,6 @@
 11. [Coco Color](https://chromewebstore.google.com/detail/coco-color/ebjkiijhfkiefljbhgclgfboghpojfco)
 12. [Fubuki Color](https://chromewebstore.google.com/detail/fubuki-color/kpajdkajohdhhemnknlahnhcekbpopac)
 13. [Sora Color](https://chromewebstore.google.com/detail/sora-color/igdphjbabjpecnkplajjdhbapmmohlhe)
-14. Mio Color
-15. Towa Color
+14. [Mio Color](https://chromewebstore.google.com/detail/mio-color/dlhciapbapkjikpomogljonlapkpmegk)
+15. [Towa Color](https://chromewebstore.google.com/detail/towa-color/ljhmopakhlcnglchikmbfgideglaafib)
+16. Robocosan Color
