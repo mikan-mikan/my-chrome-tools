@@ -1,0 +1,24 @@
+{
+  "manifest_version": 3,
+  "name": "Matsuri Color",
+  "version": "1.0.0",
+  "description": "Themes for people who like Matsuri.",
+  "theme": {
+    "colors": {
+      "frame": [187, 173, 175],
+      "frame_inactive": [187, 173, 175],
+      "toolbar": [133, 109, 113],
+      "tab_text": [255, 189, 90],
+      "tab_background_text": [133, 109, 113],
+      "bookmark_text": [255, 189, 90],
+      "ntp_background": [219, 195, 170],
+      "ntp_text": [133, 109, 113],
+      "ntp_link": [133, 109, 113],
+      "button_background": [187, 173, 175],
+      "toolbar_button_icon": [255, 189, 90],
+      "background_tab": [219, 195, 170],
+      "background_tab_inactive": [219, 195, 170],
+      "tab_background_text_inactive": [133, 109, 113]
+    }
+  }
+}
