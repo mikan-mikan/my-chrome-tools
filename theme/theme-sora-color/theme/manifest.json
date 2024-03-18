@@ -1,24 +1,24 @@
 {
   "manifest_version": 3,
   "name": "Sora Color",
-  "version": "1.0.0",
+  "version": "2.0.0",
   "description": "Themes for people who like Sora.",
   "theme": {
     "colors": {
-      "frame": [214, 216, 251],
-      "frame_inactive": [214, 216, 251],
-      "toolbar": [128, 134, 243],
-      "tab_text": [255, 255, 255],
-      "tab_background_text": [175, 36, 100],
-      "bookmark_text": [255, 255, 255],
-      "ntp_background": [63, 67, 137],
-      "ntp_text": [253, 253, 233],
-      "ntp_link": [253, 253, 233],
-      "button_background": [214, 216, 251],
-      "toolbar_button_icon": [253, 253, 233],
-      "background_tab": [245, 247, 254],
-      "background_tab_inactive": [245, 247, 254],
-      "tab_background_text_inactive": [128, 134, 243]
+      "frame": [130, 135, 226],
+      "frame_inactive": [130, 135, 226],
+      "toolbar": [69, 74, 159],
+      "tab_text": [240, 199, 91],
+      "tab_background_text": [69, 74, 159],
+      "bookmark_text": [240, 199, 91],
+      "ntp_background": [158, 163, 250],
+      "ntp_text": [69, 74, 159],
+      "ntp_link": [69, 74, 159],
+      "button_background": [130, 135, 226],
+      "toolbar_button_icon": [185, 93, 120],
+      "background_tab": [172, 177, 253],
+      "background_tab_inactive": [172, 177, 253],
+      "tab_background_text_inactive": [69, 74, 159]
     }
   }
 }
