@@ -24,3 +24,6 @@
 15. [Towa Color](https://chromewebstore.google.com/detail/towa-color/ljhmopakhlcnglchikmbfgideglaafib)
 16. [Robocosan Color](https://chromewebstore.google.com/detail/robocosan-color/eaadcfimflfdlnijcjelohkcejolaabd)
 17. Matsuri Color
+18. Fuwamoco Color
+19. Fuwawa Color
+20. Mococo Color
