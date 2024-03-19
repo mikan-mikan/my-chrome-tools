@@ -1,0 +1,24 @@
+{
+  "manifest_version": 3,
+  "name": "Fuwawa Color",
+  "version": "1.0.0",
+  "description": "Themes for people who like Fuwawa.",
+  "theme": {
+    "colors": {
+      "frame": [241, 231, 218],
+      "frame_inactive": [241, 231, 218],
+      "toolbar": [94, 88, 103],
+      "tab_text": [191, 210, 232],
+      "tab_background_text": [94, 88, 103],
+      "bookmark_text": [191, 210, 232],
+      "ntp_background": [165, 185, 208],
+      "ntp_text": [94, 88, 103],
+      "ntp_link": [94, 88, 103],
+      "button_background": [165, 185, 208],
+      "toolbar_button_icon": [191, 210, 232],
+      "background_tab": [165, 185, 208],
+      "background_tab_inactive": [165, 185, 208],
+      "tab_background_text_inactive": [94, 88, 103]
+    }
+  }
+}
