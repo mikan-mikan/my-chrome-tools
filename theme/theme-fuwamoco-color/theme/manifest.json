@@ -1,0 +1,24 @@
+{
+  "manifest_version": 3,
+  "name": "Fuwamoco Color",
+  "version": "1.0.0",
+  "description": "Themes for people who like Fuwamoco.",
+  "theme": {
+    "colors": {
+      "frame": [225, 189, 205],
+      "frame_inactive": [225, 189, 205],
+      "toolbar": [165, 185, 208],
+      "tab_text": [80, 74, 87],
+      "tab_background_text": [80, 74, 87],
+      "bookmark_text": [80, 74, 87],
+      "ntp_background": [241, 231, 218],
+      "ntp_text": [84, 74, 87],
+      "ntp_link": [84, 74, 87],
+      "button_background": [237, 220, 214],
+      "toolbar_button_icon": [241, 231, 218],
+      "background_tab": [237, 220, 214],
+      "background_tab_inactive": [237, 220, 214],
+      "tab_background_text_inactive": [80, 74, 87]
+    }
+  }
+}
