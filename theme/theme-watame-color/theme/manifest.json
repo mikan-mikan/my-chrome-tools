@@ -1,0 +1,24 @@
+{
+  "manifest_version": 3,
+  "name": "Watame Color",
+  "version": "1.0.0",
+  "description": "Themes for people who like Watame.",
+  "theme": {
+    "colors": {
+      "frame": [242, 240, 220],
+      "frame_inactive": [242, 240, 220],
+      "toolbar": [206, 201, 152],
+      "tab_text": [135, 119, 22],
+      "tab_background_text": [242, 240, 220],
+      "bookmark_text": [135, 119, 22],
+      "ntp_background": [242, 240, 220],
+      "ntp_text": [110, 106, 94],
+      "ntp_link": [110, 106, 94],
+      "button_background": [242, 240, 220],
+      "toolbar_button_icon": [110, 106, 94],
+      "background_tab": [110, 106, 94],
+      "background_tab_inactive": [110, 106, 94],
+      "tab_background_text_inactive": [242, 240, 220]
+    }
+  }
+}

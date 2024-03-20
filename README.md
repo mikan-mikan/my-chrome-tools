@@ -29,3 +29,4 @@
 20. Mococo Color
 21. Kanata Color
 22. AZKi Color
+23. Watame Color
