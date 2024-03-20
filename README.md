@@ -28,3 +28,4 @@
 19. Fuwawa Color
 20. Mococo Color
 21. Kanata Color
+22. AZKi Color
