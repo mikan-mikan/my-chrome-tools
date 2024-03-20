@@ -27,3 +27,4 @@
 18. Fuwamoco Color
 19. Fuwawa Color
 20. Mococo Color
+21. Kanata Color

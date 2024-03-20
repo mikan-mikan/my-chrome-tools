@@ -1,0 +1,24 @@
+{
+  "manifest_version": 3,
+  "name": "Kanata Color",
+  "version": "1.0.0",
+  "description": "Themes for people who like Kanata.",
+  "theme": {
+    "colors": {
+      "frame": [161, 195, 218],
+      "frame_inactive": [161, 195, 218],
+      "toolbar": [67, 107, 143],
+      "tab_text": [161, 195, 218],
+      "tab_background_text": [67, 107, 143],
+      "bookmark_text": [161, 195, 218],
+      "ntp_background": [161, 195, 218],
+      "ntp_text": [67, 107, 143],
+      "ntp_link": [67, 107, 143],
+      "button_background": [219, 226, 233],
+      "toolbar_button_icon": [205, 196, 166],
+      "background_tab": [219, 226, 233],
+      "background_tab_inactive": [219, 226, 233],
+      "tab_background_text_inactive": [67, 107, 143]
+    }
+  }
+}
