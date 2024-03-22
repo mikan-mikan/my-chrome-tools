@@ -1,7 +1,7 @@
 {
   "manifest_version": 3,
   "name": "Haato Color",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Themes for people who like Haato.",
   "theme": {
     "colors": {
@@ -9,13 +9,13 @@
       "frame_inactive": [228, 213, 192],
       "toolbar": [153, 91, 103],
       "tab_text": [232, 221, 221],
-      "tab_background_text": [232, 221, 221],
+      "tab_background_text": [255, 255, 255],
       "bookmark_text": [232, 221, 221],
       "ntp_background": [212, 153, 164],
       "ntp_text": [153, 91, 103],
       "ntp_link": [153, 91, 103],
       "button_background": [228, 213, 192],
-      "toolbar_button_icon": [255, 255, 255],
+      "toolbar_button_icon": [236, 198, 138],
       "background_tab": [116, 106, 114],
       "background_tab_inactive": [116, 106, 114],
       "tab_background_text_inactive": [232, 221, 221]
