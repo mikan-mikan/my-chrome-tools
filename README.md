@@ -30,5 +30,5 @@
 21. [Kanata Color](https://chromewebstore.google.com/detail/kanata-color/mikhmobcjpbjghpmicblkdknacpbigfl)
 22. [AZKi Color](https://chromewebstore.google.com/detail/azki-color/daceepebebnbhgpdemhofalkjgibojag)
 23. [Watame Color](https://chromewebstore.google.com/detail/watame-color/lpbbjfpdgijjamfiikhcdgchmjjihebo)
-24. Haato Color
-25. Mumei2 Color
+24. [Haato Color](https://chromewebstore.google.com/detail/haato-color/bkijbmkinmejieaajkjcgloipfbegbok)
+25. [Mumei2 Color](https://chromewebstore.google.com/detail/mumei2-color/ljbcoiojpdhkjcmmdojjppghlcdpnnkp)
