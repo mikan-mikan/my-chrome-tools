@@ -1,0 +1,25 @@
+{
+  "manifest_version": 3,
+  "name": "Mumei2 Color",
+  "version": "1.0.0",
+  "description": "Themes for people who like Mumei.",
+  "theme": {
+    "colors": {
+      "frame": [214, 200, 190],
+      "frame_inactive": [214, 200, 190],
+      "toolbar": [118, 154, 156],
+      "tab_text": [220, 232, 233],
+      "tab_background_text": [206, 206, 206],
+      "bookmark_text": [220, 232, 233],
+      "ntp_background": [214, 200, 190],
+      "ntp_text": [91, 85, 85],
+      "ntp_link": [91, 85, 85],
+      "button_background": [214, 200, 190],
+      "toolbar_button_icon": [209, 224, 226],
+      "background_tab": [91, 85, 85],
+      "background_tab_inactive": [91, 85, 85],
+      "tab_background_text_inactive": [206, 206, 206]
+    },
+    "tints": { "buttons": [0, 0, 1] }
+  }
+}
