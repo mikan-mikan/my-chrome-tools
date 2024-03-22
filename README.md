@@ -31,3 +31,4 @@
 22. [AZKi Color](https://chromewebstore.google.com/detail/azki-color/daceepebebnbhgpdemhofalkjgibojag)
 23. [Watame Color](https://chromewebstore.google.com/detail/watame-color/lpbbjfpdgijjamfiikhcdgchmjjihebo)
 24. Haato Color
+25. Mumei2 Color

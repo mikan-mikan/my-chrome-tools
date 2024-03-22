@@ -1,24 +1,24 @@
 {
   "manifest_version": 3,
   "name": "Mumei Color",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Themes for people who like Mumei.",
   "theme": {
     "colors": {
-      "frame": [229, 211, 189],
-      "frame_inactive": [229, 211, 189],
-      "toolbar": [51, 39, 40],
-      "tab_text": [229, 211, 189],
-      "tab_background_text": [51, 39, 40],
-      "bookmark_text": [229, 211, 189],
+      "frame": [208, 194, 175],
+      "frame_inactive": [208, 194, 175],
+      "toolbar": [70, 56, 57],
+      "tab_text": [243, 238, 238],
+      "tab_background_text": [255, 255, 255],
+      "bookmark_text": [243, 238, 238],
       "ntp_background": [119, 92, 85],
-      "ntp_text": [229, 211, 189],
-      "ntp_link": [229, 211, 189],
-      "button_background": [229, 211, 189],
-      "toolbar_button_icon": [229, 211, 189],
+      "ntp_text": [208, 194, 175],
+      "ntp_link": [208, 194, 175],
+      "button_background": [208, 194, 175],
+      "toolbar_button_icon": [78, 146, 154],
       "background_tab": [102, 142, 145],
       "background_tab_inactive": [106, 149, 154],
-      "tab_background_text_inactive": [51, 39, 40]
+      "tab_background_text_inactive": [255, 255, 255]
     },
     "tints": { "buttons": [0, 0, 1] }
   }
