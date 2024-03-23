@@ -1,0 +1,24 @@
+{
+  "manifest_version": 3,
+  "name": "Ayame Color",
+  "version": "1.0.0",
+  "description": "Themes for people who like Ayame.",
+  "theme": {
+    "colors": {
+      "frame": [194, 158, 162],
+      "frame_inactive": [194, 158, 162],
+      "toolbar": [165, 84, 92],
+      "tab_text": [227, 218, 220],
+      "tab_background_text": [90, 77, 94],
+      "bookmark_text": [227, 218, 220],
+      "ntp_background": [194, 158, 162],
+      "ntp_text": [90, 77, 94],
+      "ntp_link": [90, 77, 94],
+      "button_background": [194, 158, 162],
+      "toolbar_button_icon": [207, 206, 106],
+      "background_tab": [218, 207, 210],
+      "background_tab_inactive": [218, 207, 210],
+      "tab_background_text_inactive": [90, 77, 94]
+    }
+  }
+}
