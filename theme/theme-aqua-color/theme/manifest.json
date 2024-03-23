@@ -1,0 +1,24 @@
+{
+  "manifest_version": 3,
+  "name": "Aqua Color",
+  "version": "1.0.0",
+  "description": "Themes for people who like Aqua.",
+  "theme": {
+    "colors": {
+      "frame": [226, 179, 207],
+      "frame_inactive": [226, 179, 207],
+      "toolbar": [125, 126, 178],
+      "tab_text": [241, 234, 241],
+      "tab_background_text": [125, 126, 178],
+      "bookmark_text": [241, 234, 241],
+      "ntp_background": [237, 226, 233],
+      "ntp_text": [125, 126, 178],
+      "ntp_link": [125, 126, 178],
+      "button_background": [226, 179, 207],
+      "toolbar_button_icon": [179, 224, 241],
+      "background_tab": [251, 237, 245],
+      "background_tab_inactive": [251, 237, 245],
+      "tab_background_text_inactive": [125, 126, 178]
+    }
+  }
+}

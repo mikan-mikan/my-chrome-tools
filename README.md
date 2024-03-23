@@ -33,3 +33,4 @@
 24. [Haato Color](https://chromewebstore.google.com/detail/haato-color/bkijbmkinmejieaajkjcgloipfbegbok)
 25. [Mumei2 Color](https://chromewebstore.google.com/detail/mumei2-color/ljbcoiojpdhkjcmmdojjppghlcdpnnkp)
 26. Shion Color
+27. Aqua Color
