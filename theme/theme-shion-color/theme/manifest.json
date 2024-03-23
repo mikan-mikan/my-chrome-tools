@@ -1,0 +1,24 @@
+{
+  "manifest_version": 3,
+  "name": "Shion Color",
+  "version": "1.0.0",
+  "description": "Themes for people who like Shion.",
+  "theme": {
+    "colors": {
+      "frame": [147, 108, 163],
+      "frame_inactive": [147, 108, 163],
+      "toolbar": [63, 60, 79],
+      "tab_text": [241, 234, 241],
+      "tab_background_text": [241, 234, 241],
+      "bookmark_text": [241, 234, 241],
+      "ntp_background": [63, 60, 79],
+      "ntp_text": [241, 234, 241],
+      "ntp_link": [241, 234, 241],
+      "button_background": [147, 108, 163],
+      "toolbar_button_icon": [144, 169, 53],
+      "background_tab": [94, 61, 109],
+      "background_tab_inactive": [94, 61, 109],
+      "tab_background_text_inactive": [241, 234, 241]
+    }
+  }
+}
