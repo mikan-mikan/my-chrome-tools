@@ -1,24 +1,24 @@
 {
   "manifest_version": 3,
   "name": "AZKi Color",
-  "version": "1.0.0",
+  "version": "1.0.2",
   "description": "Themes for people who like AZKi.",
   "theme": {
     "colors": {
       "frame": [233, 174, 188],
       "frame_inactive": [233, 174, 188],
       "toolbar": [96, 70, 86],
-      "tab_text": [231, 133, 156],
+      "tab_text": [237, 211, 219],
       "tab_background_text": [96, 70, 86],
-      "bookmark_text": [231, 133, 156],
+      "bookmark_text": [237, 211, 219],
       "ntp_background": [237, 211, 219],
       "ntp_text": [96, 70, 86],
       "ntp_link": [96, 70, 86],
       "button_background": [233, 174, 188],
       "toolbar_button_icon": [212, 206, 208],
       "background_tab": [246, 220, 228],
-      "background_tab_inactive": [202, 115, 143],
-      "tab_background_text_inactive": [212, 206, 208]
+      "background_tab_inactive": [246, 220, 228],
+      "tab_background_text_inactive": [96, 70, 86]
     }
   }
 }
