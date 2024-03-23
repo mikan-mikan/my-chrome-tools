@@ -1,7 +1,7 @@
 {
   "manifest_version": 3,
   "name": "Ayame Color",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Themes for people who like Ayame.",
   "theme": {
     "colors": {
@@ -11,7 +11,7 @@
       "tab_text": [227, 218, 220],
       "tab_background_text": [90, 77, 94],
       "bookmark_text": [227, 218, 220],
-      "ntp_background": [194, 158, 162],
+      "ntp_background": [237, 211, 214],
       "ntp_text": [90, 77, 94],
       "ntp_link": [90, 77, 94],
       "button_background": [194, 158, 162],
