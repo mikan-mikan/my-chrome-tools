@@ -1,0 +1,24 @@
+{
+  "manifest_version": 3,
+  "name": "Korone Color",
+  "version": "1.0.0",
+  "description": "Themes for people who like Korone.",
+  "theme": {
+    "colors": {
+      "frame": [243, 222, 155],
+      "frame_inactive": [243, 222, 155],
+      "toolbar": [138, 100, 98],
+      "tab_text": [237, 237, 237],
+      "tab_background_text": [138, 100, 98],
+      "bookmark_text": [237, 237, 237],
+      "ntp_background": [232, 228, 195],
+      "ntp_text": [138, 100, 98],
+      "ntp_link": [138, 100, 98],
+      "button_background": [243, 222, 155],
+      "toolbar_button_icon": [232, 206, 24],
+      "background_tab": [255, 255, 255],
+      "background_tab_inactive": [255, 255, 255],
+      "tab_background_text_inactive": [138, 100, 98]
+    }
+  }
+}
