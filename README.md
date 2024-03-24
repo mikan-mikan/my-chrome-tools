@@ -35,4 +35,5 @@
 26. [Shion Color](https://chromewebstore.google.com/detail/shion-color/dibpbbcahmechpcccjbjdjhgkoieeich)
 27. [Aqua Color](https://chromewebstore.google.com/detail/aqua-color/noafonabioopmljnmcjmjakagodbmaen)
 28. [Ayame Color](https://chromewebstore.google.com/detail/ayame-color/lpijdkfhphgbhgennhameknefaemneci)
-29. Korone Color
+29. [Korone Color](https://chromewebstore.google.com/detail/korone-color/kggienpedjkbamiodhepbokfnfdmfdge)
+30. Polka Color
