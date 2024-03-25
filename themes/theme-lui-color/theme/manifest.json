@@ -1,0 +1,24 @@
+{
+  "manifest_version": 3,
+  "name": "Lui Color",
+  "version": "1.0.0",
+  "description": "Themes for people who like Lui.",
+  "theme": {
+    "colors": {
+      "frame": [134, 41, 80],
+      "frame_inactive": [134, 41, 80],
+      "toolbar": [40, 37, 39],
+      "tab_text": [209, 172, 172],
+      "tab_background_text": [209, 172, 172],
+      "bookmark_text": [209, 172, 172],
+      "ntp_background": [209, 172, 172],
+      "ntp_text": [40, 37, 39],
+      "ntp_link": [40, 37, 39],
+      "button_background": [134, 41, 80],
+      "toolbar_button_icon": [244, 157, 157],
+      "background_tab": [69, 44, 61],
+      "background_tab_inactive": [69, 44, 61],
+      "tab_background_text_inactive": [209, 172, 172]
+    }
+  }
+}
