@@ -1,0 +1,24 @@
+{
+  "manifest_version": 3,
+  "name": "La+ Color",
+  "version": "1.0.0",
+  "description": "Themes for people who like La+.",
+  "theme": {
+    "colors": {
+      "frame": [163, 113, 205],
+      "frame_inactive": [163, 113, 205],
+      "toolbar": [74, 59, 89],
+      "tab_text": [231, 224, 237],
+      "tab_background_text": [93, 74, 116],
+      "bookmark_text": [231, 224, 237],
+      "ntp_background": [74, 59, 89],
+      "ntp_text": [221, 216, 236],
+      "ntp_link": [221, 216, 236],
+      "button_background": [163, 113, 205],
+      "toolbar_button_icon": [179, 204, 62],
+      "background_tab": [221, 216, 236],
+      "background_tab_inactive": [221, 216, 236],
+      "tab_background_text_inactive": [93, 74, 116]
+    }
+  }
+}
