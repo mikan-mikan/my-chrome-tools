@@ -39,3 +39,4 @@
 29. [Korone Color](https://chromewebstore.google.com/detail/korone-color/kggienpedjkbamiodhepbokfnfdmfdge)
 30. [Polka Color](https://chromewebstore.google.com/detail/polka-color/cpelpdaknogakccfajpamfbmmmmdagjl)
 31. Nene Color
+32. Lamy Color

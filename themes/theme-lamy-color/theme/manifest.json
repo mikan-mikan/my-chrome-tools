@@ -1,0 +1,24 @@
+{
+  "manifest_version": 3,
+  "name": "Lamy Color",
+  "version": "1.0.0",
+  "description": "Themes for people who like Lamy.",
+  "theme": {
+    "colors": {
+      "frame": [219, 243, 255],
+      "frame_inactive": [219, 243, 255],
+      "toolbar": [117, 178, 216],
+      "tab_text": [255, 255, 255],
+      "tab_background_text": [219, 243, 255],
+      "bookmark_text": [255, 255, 255],
+      "ntp_background": [248, 234, 215],
+      "ntp_text": [117, 178, 216],
+      "ntp_link": [117, 178, 216],
+      "button_background": [219, 243, 255],
+      "toolbar_button_icon": [232, 217, 156],
+      "background_tab": [78, 78, 89],
+      "background_tab_inactive": [78, 78, 89],
+      "tab_background_text_inactive": [219, 243, 255]
+    }
+  }
+}
