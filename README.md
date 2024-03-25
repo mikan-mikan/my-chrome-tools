@@ -6,6 +6,7 @@
 
 
 ## テーマ
+<!-- [table](./THEMES.md) -->
 
 1. [Mumei Color](https://chromewebstore.google.com/detail/mumei-color/cfhokhjmlioogaplcckcggjjnkpofean)
 2. [Okayu Color](https://chromewebstore.google.com/detail/okayu-color/mhgmaadiblmfhailfblknmokjlgfiobc)
@@ -36,4 +37,5 @@
 27. [Aqua Color](https://chromewebstore.google.com/detail/aqua-color/noafonabioopmljnmcjmjakagodbmaen)
 28. [Ayame Color](https://chromewebstore.google.com/detail/ayame-color/lpijdkfhphgbhgennhameknefaemneci)
 29. [Korone Color](https://chromewebstore.google.com/detail/korone-color/kggienpedjkbamiodhepbokfnfdmfdge)
-30. Polka Color
+30. [Polka Color](https://chromewebstore.google.com/detail/polka-color/cpelpdaknogakccfajpamfbmmmmdagjl)
+31. Nene Color

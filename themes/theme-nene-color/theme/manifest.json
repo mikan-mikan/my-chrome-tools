@@ -1,0 +1,24 @@
+{
+  "manifest_version": 3,
+  "name": "Nene Color",
+  "version": "1.0.0",
+  "description": "Themes for people who like Nene.",
+  "theme": {
+    "colors": {
+      "frame": [83, 50, 34],
+      "frame_inactive": [83, 50, 34],
+      "toolbar": [209, 119, 49],
+      "tab_text": [255, 242, 223],
+      "tab_background_text": [133, 119, 107],
+      "bookmark_text": [255, 242, 223],
+      "ntp_background": [249, 225, 191],
+      "ntp_text": [83, 50, 34],
+      "ntp_link": [83, 50, 34],
+      "button_background": [83, 50, 34],
+      "toolbar_button_icon": [255, 226, 146],
+      "background_tab": [236, 197, 88],
+      "background_tab_inactive": [236, 197, 88],
+      "tab_background_text_inactive": [133, 119, 107]
+    }
+  }
+}
