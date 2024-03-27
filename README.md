@@ -39,6 +39,7 @@
 29. [Korone Color](https://chromewebstore.google.com/detail/korone-color/kggienpedjkbamiodhepbokfnfdmfdge)
 30. [Polka Color](https://chromewebstore.google.com/detail/polka-color/cpelpdaknogakccfajpamfbmmmmdagjl)
 31. [Nene Color](https://chromewebstore.google.com/detail/nene-color/kmdfndjkkeocglpcalbliimefealhkoc)
-32. Lamy Color
-33. La+ Color
-34. Lui Color
+32. [Lamy Color](https://chromewebstore.google.com/detail/lamy-color/gcmahigelemlkdnlplakoelolhchnobf)
+33. [La+ Color](https://chromewebstore.google.com/detail/la+-color/aafcjneljilpdnlpaimadlpffceafccd)
+34. [Lui Color](https://chromewebstore.google.com/detail/lui-color/bpofijhnbbedlmnploppnejamohebgcj)
+35. Koyori Color

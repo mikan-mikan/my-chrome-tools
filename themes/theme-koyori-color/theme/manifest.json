@@ -1,0 +1,24 @@
+{
+  "manifest_version": 3,
+  "name": "Koyori Color",
+  "version": "1.0.0",
+  "description": "Themes for people who like Koyori.",
+  "theme": {
+    "colors": {
+      "frame": [83, 78, 101],
+      "frame_inactive": [83, 78, 101],
+      "toolbar": [212, 131, 166],
+      "tab_text": [254, 246, 245],
+      "tab_background_text": [212, 131, 166],
+      "bookmark_text": [254, 246, 245],
+      "ntp_background": [249, 229, 236],
+      "ntp_text": [283, 78, 101],
+      "ntp_link": [283, 78, 101],
+      "button_background": [83, 78, 101],
+      "toolbar_button_icon": [254, 246, 245],
+      "background_tab": [230, 214, 220],
+      "background_tab_inactive": [230, 214, 220],
+      "tab_background_text_inactive": [212, 131, 166]
+    }
+  }
+}
