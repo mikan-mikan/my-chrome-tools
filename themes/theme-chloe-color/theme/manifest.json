@@ -1,0 +1,24 @@
+{
+  "manifest_version": 3,
+  "name": "Chloe Color",
+  "version": "1.0.0",
+  "description": "Themes for people who like Chloe.",
+  "theme": {
+    "colors": {
+      "frame": [164, 61, 58],
+      "frame_inactive": [164, 61, 58],
+      "toolbar": [43, 43, 46],
+      "tab_text": [255, 251, 243],
+      "tab_background_text": [101, 34, 34],
+      "bookmark_text": [255, 251, 243],
+      "ntp_background": [43, 43, 46],
+      "ntp_text": [255, 251, 243],
+      "ntp_link": [255, 251, 243],
+      "button_background": [164, 61, 58],
+      "toolbar_button_icon": [235, 197, 83],
+      "background_tab": [255, 251, 243],
+      "background_tab_inactive": [255, 251, 243],
+      "tab_background_text_inactive": [101, 34, 34]
+    }
+  }
+}

@@ -43,3 +43,4 @@
 33. [La+ Color](https://chromewebstore.google.com/detail/la+-color/aafcjneljilpdnlpaimadlpffceafccd)
 34. [Lui Color](https://chromewebstore.google.com/detail/lui-color/bpofijhnbbedlmnploppnejamohebgcj)
 35. Koyori Color
+36. Chloe Color
