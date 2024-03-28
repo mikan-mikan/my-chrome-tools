@@ -46,3 +46,4 @@
 36. Chloe Color
 37. Pekora Color
 38. Flare Color
+39. Noel Color

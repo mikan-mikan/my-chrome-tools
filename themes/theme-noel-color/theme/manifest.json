@@ -1,0 +1,24 @@
+{
+  "manifest_version": 3,
+  "name": "Noel Color",
+  "version": "1.0.0",
+  "description": "Themes for people who like Noel.",
+  "theme": {
+    "colors": {
+      "frame": [233, 224, 213],
+      "frame_inactive": [233, 224, 213],
+      "toolbar": [63, 77, 95],
+      "tab_text": [254, 252, 254],
+      "tab_background_text": [254, 252, 254],
+      "bookmark_text": [254, 252, 254],
+      "ntp_background": [63, 77, 95],
+      "ntp_text": [254, 252, 254],
+      "ntp_link": [254, 252, 254],
+      "button_background": [233, 224, 213],
+      "toolbar_button_icon": [220, 196, 151],
+      "background_tab": [172, 159, 172],
+      "background_tab_inactive": [172, 159, 172],
+      "tab_background_text_inactive": [254, 252, 254]
+    }
+  }
+}
