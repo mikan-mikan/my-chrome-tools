@@ -42,8 +42,9 @@
 32. [Lamy Color](https://chromewebstore.google.com/detail/lamy-color/gcmahigelemlkdnlplakoelolhchnobf)
 33. [La+ Color](https://chromewebstore.google.com/detail/la+-color/aafcjneljilpdnlpaimadlpffceafccd)
 34. [Lui Color](https://chromewebstore.google.com/detail/lui-color/bpofijhnbbedlmnploppnejamohebgcj)
-35. Koyori Color
-36. Chloe Color
+35. [Koyori Color](https://chromewebstore.google.com/detail/koyori-color/falgcailhpheljbmigfoimkejefdkoff)
+36. [Chloe Color](https://chromewebstore.google.com/detail/chloe-color/gehipbjbaincfbcendfenpheniapegac)
 37. Pekora Color
 38. Flare Color
 39. Noel Color
+40. Marine Color

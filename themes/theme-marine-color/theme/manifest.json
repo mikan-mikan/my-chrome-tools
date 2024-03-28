@@ -1,0 +1,24 @@
+{
+  "manifest_version": 3,
+  "name": "Marine Color",
+  "version": "1.0.0",
+  "description": "Themes for people who like Marine.",
+  "theme": {
+    "colors": {
+      "frame": [171, 76, 74],
+      "frame_inactive": [171, 76, 74],
+      "toolbar": [229, 215, 194],
+      "tab_text": [65, 64, 68],
+      "tab_background_text": [254, 252, 254],
+      "bookmark_text": [65, 64, 68],
+      "ntp_background": [229, 215, 194],
+      "ntp_text": [171, 76, 74],
+      "ntp_link": [171, 76, 74],
+      "button_background": [171, 76, 74],
+      "toolbar_button_icon": [101, 149, 161],
+      "background_tab": [65, 64, 68],
+      "background_tab_inactive": [65, 64, 68],
+      "tab_background_text_inactive": [254, 252, 254]
+    }
+  }
+}
