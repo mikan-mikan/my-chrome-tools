@@ -1,0 +1,24 @@
+{
+  "manifest_version": 3,
+  "name": "Flare Color",
+  "version": "1.0.0",
+  "description": "Themes for people who like Flare.",
+  "theme": {
+    "colors": {
+      "frame": [210, 96, 78],
+      "frame_inactive": [210, 96, 78],
+      "toolbar": [246, 245, 247],
+      "tab_text": [203, 61, 39],
+      "tab_background_text": [203, 61, 39],
+      "bookmark_text": [203, 61, 39],
+      "ntp_background": [246, 204, 168],
+      "ntp_text": [203, 61, 39],
+      "ntp_link": [203, 61, 39],
+      "button_background": [203, 61, 39],
+      "toolbar_button_icon": [59, 119, 167],
+      "background_tab": [246, 204, 168],
+      "background_tab_inactive": [246, 204, 168],
+      "tab_background_text_inactive": [246, 204, 168]
+    }
+  }
+}

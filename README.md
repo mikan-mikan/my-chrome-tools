@@ -45,3 +45,4 @@
 35. Koyori Color
 36. Chloe Color
 37. Pekora Color
+38. Flare Color
