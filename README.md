@@ -51,3 +51,4 @@
 41. Ao Color
 42. Kanade Color
 43. Ririka Color
+44. Raden Color
