@@ -1,0 +1,24 @@
+{
+  "manifest_version": 3,
+  "name": "Ao Color",
+  "version": "1.0.0",
+  "description": "Themes for people who like Ao.",
+  "theme": {
+    "colors": {
+      "frame": [50, 65, 84],
+      "frame_inactive": [50, 65, 84],
+      "toolbar": [22, 36, 56],
+      "tab_text": [172, 183, 195],
+      "tab_background_text": [172, 183, 195],
+      "bookmark_text": [172, 183, 195],
+      "ntp_background": [22, 36, 56],
+      "ntp_text": [172, 183, 195],
+      "ntp_link": [172, 183, 195],
+      "button_background": [50, 65, 84],
+      "toolbar_button_icon": [143, 150, 163],
+      "background_tab": [101, 98, 101],
+      "background_tab_inactive": [101, 98, 101],
+      "tab_background_text_inactive": [172, 183, 195]
+    }
+  }
+}

@@ -44,7 +44,8 @@
 34. [Lui Color](https://chromewebstore.google.com/detail/lui-color/bpofijhnbbedlmnploppnejamohebgcj)
 35. [Koyori Color](https://chromewebstore.google.com/detail/koyori-color/falgcailhpheljbmigfoimkejefdkoff)
 36. [Chloe Color](https://chromewebstore.google.com/detail/chloe-color/gehipbjbaincfbcendfenpheniapegac)
-37. Pekora Color
-38. Flare Color
-39. Noel Color
-40. Marine Color
+37. [Pekora Color](https://chromewebstore.google.com/detail/pekora-color/ldamefekbipnoiinjinigocbagacebld)
+38. [Flare Color](https://chromewebstore.google.com/detail/flare-color/ableiiknmcjbhcbgeobgkdgnblpgilin)
+39. [Noel Color](https://chromewebstore.google.com/detail/noel-color/hiigncmhhhpclgcnknpcidmclofapdbo)
+40. [Marine Color](https://chromewebstore.google.com/detail/marine-color/hnhggifdkkoebnadokljhbnhlhkgghcb)
+41. Ao Color
