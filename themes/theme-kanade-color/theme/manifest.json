@@ -1,0 +1,24 @@
+{
+  "manifest_version": 3,
+  "name": "Kanade Color",
+  "version": "1.0.0",
+  "description": "Themes for people who like Kanade.",
+  "theme": {
+    "colors": {
+      "frame": [249, 241, 231],
+      "frame_inactive": [249, 241, 231],
+      "toolbar": [236, 208, 121],
+      "tab_text": [128, 105, 87],
+      "tab_background_text": [255, 243, 205],
+      "bookmark_text": [128, 105, 87],
+      "ntp_background": [255, 243, 205],
+      "ntp_text": [128, 105, 87],
+      "ntp_link": [128, 105, 87],
+      "button_background": [249, 241, 231],
+      "toolbar_button_icon": [210, 113, 86],
+      "background_tab": [128, 105, 87],
+      "background_tab_inactive": [128, 105, 87],
+      "tab_background_text_inactive": [255, 243, 205]
+    }
+  }
+}

@@ -49,3 +49,4 @@
 39. [Noel Color](https://chromewebstore.google.com/detail/noel-color/hiigncmhhhpclgcnknpcidmclofapdbo)
 40. [Marine Color](https://chromewebstore.google.com/detail/marine-color/hnhggifdkkoebnadokljhbnhlhkgghcb)
 41. Ao Color
+42. Kanade Color
