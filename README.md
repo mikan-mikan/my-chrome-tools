@@ -50,3 +50,4 @@
 40. [Marine Color](https://chromewebstore.google.com/detail/marine-color/hnhggifdkkoebnadokljhbnhlhkgghcb)
 41. Ao Color
 42. Kanade Color
+43. Ririka Color

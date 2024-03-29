@@ -1,0 +1,24 @@
+{
+  "manifest_version": 3,
+  "name": "Ririka Color",
+  "version": "1.0.0",
+  "description": "Themes for people who like Ririka.",
+  "theme": {
+    "colors": {
+      "frame": [247, 222, 228],
+      "frame_inactive": [247, 222, 228],
+      "toolbar": [221, 141, 169],
+      "tab_text": [238, 232, 245],
+      "tab_background_text": [239, 233, 246],
+      "bookmark_text": [238, 232, 245],
+      "ntp_background": [255, 207, 219],
+      "ntp_text": [221, 141, 169],
+      "ntp_link": [221, 141, 169],
+      "button_background": [247, 222, 228],
+      "toolbar_button_icon": [255, 214, 175],
+      "background_tab": [219, 186, 190],
+      "background_tab_inactive": [219, 186, 190],
+      "tab_background_text_inactive": [239, 233, 246]
+    }
+  }
+}
