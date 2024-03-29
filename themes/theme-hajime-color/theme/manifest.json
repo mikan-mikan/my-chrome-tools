@@ -1,0 +1,24 @@
+{
+  "manifest_version": 3,
+  "name": "Hajime Color",
+  "version": "1.0.0",
+  "description": "Themes for people who like Hajime.",
+  "theme": {
+    "colors": {
+      "frame": [225, 223, 254],
+      "frame_inactive": [225, 223, 254],
+      "toolbar": [179, 173, 218],
+      "tab_text": [115, 109, 181],
+      "tab_background_text": [152, 145, 224],
+      "bookmark_text": [115, 109, 181],
+      "ntp_background": [239, 238, 255],
+      "ntp_text": [115, 109, 181],
+      "ntp_link": [115, 109, 181],
+      "button_background": [225, 223, 254],
+      "toolbar_button_icon": [255, 248, 255],
+      "background_tab": [217, 201, 246],
+      "background_tab_inactive": [217, 201, 246],
+      "tab_background_text_inactive": [152, 145, 224]
+    }
+  }
+}

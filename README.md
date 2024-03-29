@@ -52,3 +52,4 @@
 42. Kanade Color
 43. Ririka Color
 44. Raden Color
+45. Hajime Color
