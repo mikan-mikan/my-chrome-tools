@@ -48,8 +48,8 @@
 38. [Flare Color](https://chromewebstore.google.com/detail/flare-color/ableiiknmcjbhcbgeobgkdgnblpgilin)
 39. [Noel Color](https://chromewebstore.google.com/detail/noel-color/hiigncmhhhpclgcnknpcidmclofapdbo)
 40. [Marine Color](https://chromewebstore.google.com/detail/marine-color/hnhggifdkkoebnadokljhbnhlhkgghcb)
-41. Ao Color
-42. Kanade Color
-43. Ririka Color
-44. Raden Color
-45. Hajime Color
+41. [Ao Color](https://chromewebstore.google.com/detail/ao-color/fdfpdifcgokbgafpbiboockchphmaanh)
+42. [Kanade Color](https://chromewebstore.google.com/detail/kanade-color/fjmhjlhljngicfegbjldpjpniifoeegk)
+43. [Ririka Color](https://chromewebstore.google.com/detail/ririka-color/mhanhmbfhbojpnppfnpbjgeeokfhojep)
+44. [Raden Color](https://chromewebstore.google.com/detail/raden-color/chiikhdlhoehhiflegehceeoipamoeep)
+45. [Hajime Color](https://chromewebstore.google.com/detail/hajime-color/achodlbnlcbnhcpeakobopdpmoemkgpg)
