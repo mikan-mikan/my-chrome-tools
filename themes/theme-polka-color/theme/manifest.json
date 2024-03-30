@@ -1,24 +1,24 @@
 {
   "manifest_version": 3,
   "name": "Polka Color",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "Themes for people who like Polka.",
   "theme": {
     "colors": {
       "frame": [238, 214, 164],
       "frame_inactive": [238, 214, 164],
       "toolbar": [136, 165, 192],
-      "tab_text": [255, 255, 255],
-      "tab_background_text": [255, 255, 255],
-      "bookmark_text": [255, 255, 255],
-      "ntp_background": [206, 161, 187],
+      "tab_text": [33, 76, 113],
+      "tab_background_text": [171, 21, 38],
+      "bookmark_text": [33, 76, 113],
+      "ntp_background": [218, 152, 190],
       "ntp_text": [255, 255, 255],
       "ntp_link": [255, 255, 255],
       "button_background": [238, 214, 164],
-      "toolbar_button_icon": [35, 79, 118],
-      "background_tab": [206, 161, 187],
-      "background_tab_inactive": [206, 161, 187],
-      "tab_background_text_inactive": [255, 255, 255]
+      "toolbar_button_icon": [57, 59, 64],
+      "background_tab": [218, 152, 190],
+      "background_tab_inactive": [218, 152, 190],
+      "tab_background_text_inactive": [171, 21, 38]
     }
   }
 }
