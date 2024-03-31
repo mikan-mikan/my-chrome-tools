@@ -1,0 +1,24 @@
+{
+  "manifest_version": 3,
+  "name": "Calliope Color",
+  "version": "1.0.0",
+  "description": "Themes for people who like Calliope.",
+  "theme": {
+    "colors": {
+      "frame": [250, 213, 228],
+      "frame_inactive": [250, 213, 228],
+      "toolbar": [77, 59, 63],
+      "tab_text": [252, 239, 244],
+      "tab_background_text": [252, 239, 244],
+      "bookmark_text": [252, 239, 244],
+      "ntp_background": [77, 59, 63],
+      "ntp_text": [252, 239, 244],
+      "ntp_link": [252, 239, 244],
+      "button_background": [250, 213, 228],
+      "toolbar_button_icon": [245, 216, 187],
+      "background_tab": [180, 127, 144],
+      "background_tab_inactive": [180, 127, 144],
+      "tab_background_text_inactive": [252, 239, 244]
+    }
+  }
+}
