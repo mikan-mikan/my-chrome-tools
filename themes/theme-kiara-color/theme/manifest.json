@@ -1,0 +1,24 @@
+{
+  "manifest_version": 3,
+  "name": "Kiara Color",
+  "version": "1.0.0",
+  "description": "Themes for people who like Kiara.",
+  "theme": {
+    "colors": {
+      "frame": [255, 150, 116],
+      "frame_inactive": [255, 150, 116],
+      "toolbar": [170, 68, 43],
+      "tab_text": [240, 211, 202],
+      "tab_background_text": [218, 88, 48],
+      "bookmark_text": [240, 211, 202],
+      "ntp_background": [170, 68, 43],
+      "ntp_text": [240, 211, 202],
+      "ntp_link": [240, 211, 202],
+      "button_background": [255, 150, 116],
+      "toolbar_button_icon": [168, 175, 225],
+      "background_tab": [253, 216, 204],
+      "background_tab_inactive": [253, 216, 204],
+      "tab_background_text_inactive": [218, 88, 48]
+    }
+  }
+}

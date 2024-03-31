@@ -53,4 +53,5 @@
 43. [Ririka Color](https://chromewebstore.google.com/detail/ririka-color/mhanhmbfhbojpnppfnpbjgeeokfhojep)
 44. [Raden Color](https://chromewebstore.google.com/detail/raden-color/chiikhdlhoehhiflegehceeoipamoeep)
 45. [Hajime Color](https://chromewebstore.google.com/detail/hajime-color/achodlbnlcbnhcpeakobopdpmoemkgpg)
-46. Calliope Color
+46. [Calliope Color](https://chromewebstore.google.com/detail/calliope-color/bbhogjaklfahmicnmmnjhhlafbblafhc)
+47. Kiara Color
