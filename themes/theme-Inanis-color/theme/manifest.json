@@ -1,0 +1,24 @@
+{
+  "manifest_version": 3,
+  "name": "Ina'nis Color",
+  "version": "1.0.0",
+  "description": "Themes for people who like Ina'nis.",
+  "theme": {
+    "colors": {
+      "frame": [94, 64, 104],
+      "frame_inactive": [94, 64, 104],
+      "toolbar": [48, 40, 60],
+      "tab_text": [226, 211, 227],
+      "tab_background_text": [226, 211, 227],
+      "bookmark_text": [226, 211, 227],
+      "ntp_background": [94, 64, 104],
+      "ntp_text": [226, 211, 227],
+      "ntp_link": [226, 211, 227],
+      "button_background": [94, 64, 104],
+      "toolbar_button_icon": [232, 228, 237],
+      "background_tab": [133, 115, 159],
+      "background_tab_inactive": [113, 95, 140],
+      "tab_background_text_inactive": [226, 211, 227]
+    }
+  }
+}

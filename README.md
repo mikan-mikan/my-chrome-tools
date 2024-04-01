@@ -55,3 +55,4 @@
 45. [Hajime Color](https://chromewebstore.google.com/detail/hajime-color/achodlbnlcbnhcpeakobopdpmoemkgpg)
 46. [Calliope Color](https://chromewebstore.google.com/detail/calliope-color/bbhogjaklfahmicnmmnjhhlafbblafhc)
 47. Kiara Color
+48. Ina'nis Color
