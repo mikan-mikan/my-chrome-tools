@@ -1,0 +1,24 @@
+{
+  "manifest_version": 3,
+  "name": "Gura Color",
+  "version": "1.0.0",
+  "description": "Themes for people who like Gura.",
+  "theme": {
+    "colors": {
+      "frame": [150, 192, 214],
+      "frame_inactive": [150, 192, 214],
+      "toolbar": [36, 64, 109],
+      "tab_text": [255, 255, 255],
+      "tab_background_text": [255, 255, 255],
+      "bookmark_text": [255, 255, 255],
+      "ntp_background": [209, 228, 236],
+      "ntp_text": [36, 64, 109],
+      "ntp_link": [36, 64, 109],
+      "button_background": [150, 192, 214],
+      "toolbar_button_icon": [198, 211, 218],
+      "background_tab": [104, 147, 181],
+      "background_tab_inactive": [104, 147, 181],
+      "tab_background_text_inactive": [255, 255, 255]
+    }
+  }
+}
