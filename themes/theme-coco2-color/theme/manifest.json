@@ -1,0 +1,24 @@
+{
+  "manifest_version": 3,
+  "name": "Coco2 Color",
+  "version": "1.0.0",
+  "description": "Themes for people who like Coco.",
+  "theme": {
+    "colors": {
+      "frame": [220, 135, 164],
+      "frame_inactive": [220, 135, 164],
+      "toolbar": [137, 40, 88],
+      "tab_text": [244, 206, 219],
+      "tab_background_text": [244, 206, 219],
+      "bookmark_text": [244, 206, 219],
+      "ntp_background": [243, 205, 218],
+      "ntp_text": [137, 40, 88],
+      "ntp_link": [137, 40, 88],
+      "button_background": [220, 135, 164],
+      "toolbar_button_icon": [212, 107, 57],
+      "background_tab": [190, 82, 136],
+      "background_tab_inactive": [190, 82, 136],
+      "tab_background_text_inactive": [244, 206, 219]
+    }
+  }
+}
