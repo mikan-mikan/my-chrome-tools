@@ -1,0 +1,24 @@
+{
+  "manifest_version": 3,
+  "name": "Amelia Color",
+  "version": "1.0.0",
+  "description": "Themes for people who like Amelia.",
+  "theme": {
+    "colors": {
+      "frame": [227, 215, 185],
+      "frame_inactive": [227, 215, 185],
+      "toolbar": [163, 187, 197],
+      "tab_text": [96, 81, 86],
+      "tab_background_text": [96, 81, 86],
+      "bookmark_text": [96, 81, 86],
+      "ntp_background": [243, 238, 225],
+      "ntp_text": [96, 81, 86],
+      "ntp_link": [96, 81, 86],
+      "button_background": [227, 215, 185],
+      "toolbar_button_icon": [69, 113, 142],
+      "background_tab": [202, 190, 165],
+      "background_tab_inactive": [202, 190, 165],
+      "tab_background_text_inactive": [96, 81, 86]
+    }
+  }
+}

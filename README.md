@@ -56,4 +56,6 @@
 46. [Calliope Color](https://chromewebstore.google.com/detail/calliope-color/bbhogjaklfahmicnmmnjhhlafbblafhc)
 47. [Kiara Color](https://chromewebstore.google.com/detail/kiara-color/fdbnpeiinieekbbjfdnkekefahbghjdn)
 48. [Ina'nis Color](https://chromewebstore.google.com/detail/inanis-color/pmcmeamnmiebbnmocijhadbdaghdenll)
-49. Gura Color
+49. [Coco2 Color](https://chromewebstore.google.com/detail/coco2-color/jhilpjaaednfnoichbdfgkccpplimhpi)
+50. Gura Color
+51. Amelia Color
