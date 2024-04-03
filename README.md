@@ -57,5 +57,5 @@
 47. [Kiara Color](https://chromewebstore.google.com/detail/kiara-color/fdbnpeiinieekbbjfdnkekefahbghjdn)
 48. [Ina'nis Color](https://chromewebstore.google.com/detail/inanis-color/pmcmeamnmiebbnmocijhadbdaghdenll)
 49. [Coco2 Color](https://chromewebstore.google.com/detail/coco2-color/jhilpjaaednfnoichbdfgkccpplimhpi)
-50. Gura Color
-51. Amelia Color
+50. [Gura Color](https://chromewebstore.google.com/detail/gura-color/gajogpbeifkhcmlpcajcngnppokhhban)
+51. [Amelia Color](https://chromewebstore.google.com/detail/amelia-color/ladnlfdcpgofddjhldnlfahidjfkcihe)
