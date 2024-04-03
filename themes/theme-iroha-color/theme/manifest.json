@@ -1,7 +1,7 @@
 {
   "manifest_version": 3,
   "name": "Iroha Color",
-  "version": "2.0.0",
+  "version": "2.0.1",
   "description": "Themes for people who like Iroha.",
   "theme": {
     "colors": {
@@ -16,7 +16,7 @@
       "ntp_link": [82, 126, 122],
       "button_background": [230, 231, 220],
       "toolbar_button_icon": [205, 240, 248],
-      "background_tab": [217, 196, 154],
+      "background_tab": [206, 188, 151],
       "background_tab_inactive": [217, 196, 154],
       "tab_background_text_inactive": [255, 255, 255]
     }
