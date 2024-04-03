@@ -60,3 +60,4 @@
 50. [Gura Color](https://chromewebstore.google.com/detail/gura-color/gajogpbeifkhcmlpcajcngnppokhhban)
 51. [Amelia Color](https://chromewebstore.google.com/detail/amelia-color/ladnlfdcpgofddjhldnlfahidjfkcihe)
 52. IRyS Color
+53. Fauna Color

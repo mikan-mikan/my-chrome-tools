@@ -1,0 +1,24 @@
+{
+  "manifest_version": 3,
+  "name": "Fauna Color",
+  "version": "1.0.0",
+  "description": "Themes for people who like Fauna.",
+  "theme": {
+    "colors": {
+      "frame": [219, 223, 195],
+      "frame_inactive": [219, 223, 195],
+      "toolbar": [116, 137, 101],
+      "tab_text": [224, 234, 218],
+      "tab_background_text": [85, 113, 65],
+      "bookmark_text": [224, 234, 218],
+      "ntp_background": [248, 250, 234],
+      "ntp_text": [85, 113, 65],
+      "ntp_link": [85, 113, 65],
+      "button_background": [219, 223, 195],
+      "toolbar_button_icon": [196, 225, 224],
+      "background_tab": [171, 196, 157],
+      "background_tab_inactive": [171, 196, 157],
+      "tab_background_text_inactive": [85, 113, 65]
+    }
+  }
+}
