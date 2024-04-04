@@ -59,5 +59,6 @@
 49. [Coco2 Color](https://chromewebstore.google.com/detail/coco2-color/jhilpjaaednfnoichbdfgkccpplimhpi)
 50. [Gura Color](https://chromewebstore.google.com/detail/gura-color/gajogpbeifkhcmlpcajcngnppokhhban)
 51. [Amelia Color](https://chromewebstore.google.com/detail/amelia-color/ladnlfdcpgofddjhldnlfahidjfkcihe)
-52. IRyS Color
-53. Fauna Color
+52. [IRyS Color](https://chromewebstore.google.com/detail/irys-color/debdobkdcfmfafinbbfaiamdjikacldp)
+53. [Fauna Color](https://chromewebstore.google.com/detail/fauna-color/jjeoiohjjgcjijogghfcmeelgbdpffpl)
+54. Kronii Color

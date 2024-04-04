@@ -1,0 +1,24 @@
+{
+  "manifest_version": 3,
+  "name": "Kronii Color",
+  "version": "1.0.0",
+  "description": "Themes for people who like Kronii.",
+  "theme": {
+    "colors": {
+      "frame": [98, 106, 142],
+      "frame_inactive": [98, 106, 142],
+      "toolbar": [0, 5, 68],
+      "tab_text": [185, 239, 255],
+      "tab_background_text": [227, 246, 252],
+      "bookmark_text": [185, 239, 255],
+      "ntp_background": [182, 200, 221],
+      "ntp_text": [0, 5, 68],
+      "ntp_link": [0, 5, 68],
+      "button_background": [98, 106, 142],
+      "toolbar_button_icon": [206, 171, 74],
+      "background_tab": [168, 174, 203],
+      "background_tab_inactive": [168, 174, 203],
+      "tab_background_text_inactive": [227, 246, 252]
+    }
+  }
+}
