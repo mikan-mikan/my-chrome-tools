@@ -61,4 +61,4 @@
 51. [Amelia Color](https://chromewebstore.google.com/detail/amelia-color/ladnlfdcpgofddjhldnlfahidjfkcihe)
 52. [IRyS Color](https://chromewebstore.google.com/detail/irys-color/debdobkdcfmfafinbbfaiamdjikacldp)
 53. [Fauna Color](https://chromewebstore.google.com/detail/fauna-color/jjeoiohjjgcjijogghfcmeelgbdpffpl)
-54. Kronii Color
+54. [Kronii Color](https://chromewebstore.google.com/detail/kronii-color/jnbcpffkeniehbfmhkdepoohfppgmagc)

@@ -1,0 +1,24 @@
+{
+  "manifest_version": 3,
+  "name": "Hakos Color",
+  "version": "1.0.0",
+  "description": "Themes for people who like Hakos.",
+  "theme": {
+    "colors": {
+      "frame": [186, 34, 30],
+      "frame_inactive": [186, 34, 30],
+      "toolbar": [121, 19, 16],
+      "tab_text": [249, 219, 75],
+      "tab_background_text": [249, 219, 75],
+      "bookmark_text": [249, 219, 75],
+      "ntp_background": [253, 232, 232],
+      "ntp_text": [121, 19, 16],
+      "ntp_link": [121, 19, 16],
+      "button_background": [186, 34, 30],
+      "toolbar_button_icon": [102, 218, 204],
+      "background_tab": [153, 31, 27],
+      "background_tab_inactive": [153, 31, 27],
+      "tab_background_text_inactive": [249, 219, 75]
+    }
+  }
+}
