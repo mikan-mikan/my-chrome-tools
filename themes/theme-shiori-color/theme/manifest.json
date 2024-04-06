@@ -1,0 +1,24 @@
+{
+  "manifest_version": 3,
+  "name": "Shiori Color",
+  "version": "1.0.0",
+  "description": "Themes for people who like Shiori.",
+  "theme": {
+    "colors": {
+      "frame": [133, 122, 156],
+      "frame_inactive": [133, 122, 156],
+      "toolbar": [80, 62, 109],
+      "tab_text": [230, 217, 232],
+      "tab_background_text": [239, 229, 241],
+      "bookmark_text": [230, 217, 232],
+      "ntp_background": [233, 222, 234],
+      "ntp_text": [74, 59, 97],
+      "ntp_link": [74, 59, 97],
+      "button_background": [133, 122, 156],
+      "toolbar_button_icon": [182, 199, 240],
+      "background_tab": [172, 163, 192],
+      "background_tab_inactive": [172, 163, 192],
+      "tab_background_text_inactive": [239, 229, 241]
+    }
+  }
+}

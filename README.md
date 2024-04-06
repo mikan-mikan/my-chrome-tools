@@ -62,3 +62,5 @@
 52. [IRyS Color](https://chromewebstore.google.com/detail/irys-color/debdobkdcfmfafinbbfaiamdjikacldp)
 53. [Fauna Color](https://chromewebstore.google.com/detail/fauna-color/jjeoiohjjgcjijogghfcmeelgbdpffpl)
 54. [Kronii Color](https://chromewebstore.google.com/detail/kronii-color/jnbcpffkeniehbfmhkdepoohfppgmagc)
+55. [Hakos Color](https://chromewebstore.google.com/detail/hakos-color/oeaddkfkaclcdkiiapepcombeailbaof)
+56. Shiori Color
