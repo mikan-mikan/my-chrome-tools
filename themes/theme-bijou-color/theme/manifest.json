@@ -1,0 +1,24 @@
+{
+  "manifest_version": 3,
+  "name": "Bijou Color",
+  "version": "1.0.0",
+  "description": "Themes for people who like Bijou.",
+  "theme": {
+    "colors": {
+      "frame": [185, 149, 215],
+      "frame_inactive": [185, 149, 215],
+      "toolbar": [113, 100, 160],
+      "tab_text": [255, 145, 255],
+      "tab_background_text": [161, 95, 161],
+      "bookmark_text": [255, 145, 255],
+      "ntp_background": [245, 213, 237],
+      "ntp_text": [51, 44, 76],
+      "ntp_link": [51, 44, 76],
+      "button_background": [185, 149, 215],
+      "toolbar_button_icon": [237, 197, 145],
+      "background_tab": [203, 172, 228],
+      "background_tab_inactive": [203, 172, 228],
+      "tab_background_text_inactive": [161, 95, 161]
+    }
+  }
+}

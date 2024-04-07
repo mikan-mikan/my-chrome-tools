@@ -64,3 +64,4 @@
 54. [Kronii Color](https://chromewebstore.google.com/detail/kronii-color/jnbcpffkeniehbfmhkdepoohfppgmagc)
 55. [Hakos Color](https://chromewebstore.google.com/detail/hakos-color/oeaddkfkaclcdkiiapepcombeailbaof)
 56. Shiori Color
+57. Bijou Color
