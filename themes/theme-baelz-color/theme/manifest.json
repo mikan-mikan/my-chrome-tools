@@ -1,8 +1,8 @@
 {
   "manifest_version": 3,
-  "name": "Hakos Color",
-  "version": "1.0.0",
-  "description": "Themes for people who like Hakos.",
+  "name": "Baelz Color",
+  "version": "1.0.1",
+  "description": "Themes for people who like Baelz.",
   "theme": {
     "colors": {
       "frame": [186, 34, 30],
