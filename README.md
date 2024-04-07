@@ -6,7 +6,7 @@
 
 
 ## テーマ
-<!-- [table](./THEMES.md) -->
+[一覧表はこちら](./THEMES.md)
 
 1. [Mumei Color](https://chromewebstore.google.com/detail/mumei-color/cfhokhjmlioogaplcckcggjjnkpofean)
 2. [Okayu Color](https://chromewebstore.google.com/detail/okayu-color/mhgmaadiblmfhailfblknmokjlgfiobc)
@@ -64,4 +64,4 @@
 54. [Kronii Color](https://chromewebstore.google.com/detail/kronii-color/jnbcpffkeniehbfmhkdepoohfppgmagc)
 55. [Baelz Color](https://chromewebstore.google.com/detail/hakos-color/oeaddkfkaclcdkiiapepcombeailbaof)
 56. [Shiori Color](https://chromewebstore.google.com/detail/shiori-color/ahffmakcneljdlljdigljojfnmpefjlp)
-57. Bijou Color
+57. [Bijou Color](https://chromewebstore.google.com/detail/bijou-color/pmeoiaiaamjnnfcmocgfnbkjkchaicdb)

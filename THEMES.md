@@ -1,29 +1,40 @@
 # Themes
 
-## Hololive
-|Gen 0|Gen 1|Gen 2|GAMERS|Gen 3|Gen 4|Gen 5|holoX|
-|--|--|--|--|--|--|--|--|
-|||||||||
-|||||-|-|||
-|||||||||
-|||||||-||
-|||||||||
+# holo
+## JP
+| Gen 0 | Gen 1 | Gen 2 | GAMERS | Gen 3 | Gen 4 | Gen 5 | holoX |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| [Sora](https://chromewebstore.google.com/detail/sora-color/igdphjbabjpecnkplajjdhbapmmohlhe) | [Aki](https://chromewebstore.google.com/detail/aki-color/plnpimhnpambijlmblfbanaamdpchfhh) | [Aqua](https://chromewebstore.google.com/detail/aqua-color/noafonabioopmljnmcjmjakagodbmaen) | [Fubuki](https://chromewebstore.google.com/detail/fubuki-color/kpajdkajohdhhemnknlahnhcekbpopac) | [Pekora](https://chromewebstore.google.com/detail/pekora-color/ldamefekbipnoiinjinigocbagacebld) | [Kanata](https://chromewebstore.google.com/detail/kanata-color/mikhmobcjpbjghpmicblkdknacpbigfl) | [Lamy](https://chromewebstore.google.com/detail/lamy-color/gcmahigelemlkdnlplakoelolhchnobf) | [La+](https://chromewebstore.google.com/detail/la+-color/aafcjneljilpdnlpaimadlpffceafccd) |
+| [Robocosan](https://chromewebstore.google.com/detail/robocosan-color/eaadcfimflfdlnijcjelohkcejolaabd) | [Haato](https://chromewebstore.google.com/detail/haato-color/bkijbmkinmejieaajkjcgloipfbegbok) | [Shion](https://chromewebstore.google.com/detail/shion-color/dibpbbcahmechpcccjbjdjhgkoieeich) | [Mio](https://chromewebstore.google.com/detail/mio-color/dlhciapbapkjikpomogljonlapkpmegk) | - | [\<Alum\>Coco](https://chromewebstore.google.com/detail/coco-color/ebjkiijhfkiefljbhgclgfboghpojfco)<br> [\<Alum\>Coco2](https://chromewebstore.google.com/detail/coco2-color/jhilpjaaednfnoichbdfgkccpplimhpi) | [Nene](https://chromewebstore.google.com/detail/nene-color/kmdfndjkkeocglpcalbliimefealhkoc) | [Lui](https://chromewebstore.google.com/detail/lui-color/bpofijhnbbedlmnploppnejamohebgcj) |
+| [AZKi](https://chromewebstore.google.com/detail/azki-color/daceepebebnbhgpdemhofalkjgibojag) | [Fubuki](https://chromewebstore.google.com/detail/fubuki-color/kpajdkajohdhhemnknlahnhcekbpopac) | [Ayame](https://chromewebstore.google.com/detail/ayame-color/lpijdkfhphgbhgennhameknefaemneci) | [Okayu](https://chromewebstore.google.com/detail/okayu-color/mhgmaadiblmfhailfblknmokjlgfiobc) | [Flare](https://chromewebstore.google.com/detail/flare-color/ableiiknmcjbhcbgeobgkdgnblpgilin) | [Watame](https://chromewebstore.google.com/detail/watame-color/lpbbjfpdgijjamfiikhcdgchmjjihebo) | [Botan](https://chromewebstore.google.com/detail/botan-color/dokjkockkgljfibjfgkendhlmobknebh) | [Koyori](https://chromewebstore.google.com/detail/koyori-color/falgcailhpheljbmigfoimkejefdkoff) |
+| [Miko](https://chromewebstore.google.com/detail/miko-color/fbadkfcpcbehkmciifbelajfjfnjjmpg) | [Matsuri](https://chromewebstore.google.com/detail/matsuri-color/ecimiohalieedndgiklicngoibehfhkj) | [Choco](https://chromewebstore.google.com/detail/choco-color/jlmfjdaiabgfccokicmbcpaplndbibok) | [Korone](https://chromewebstore.google.com/detail/korone-color/kggienpedjkbamiodhepbokfnfdmfdge) | [Noel](https://chromewebstore.google.com/detail/noel-color/hiigncmhhhpclgcnknpcidmclofapdbo) | [Towa](https://chromewebstore.google.com/detail/towa-color/ljhmopakhlcnglchikmbfgideglaafib) | - | [Chloe](https://chromewebstore.google.com/detail/chloe-color/gehipbjbaincfbcendfenpheniapegac) |
+| [Suisei](https://chromewebstore.google.com/detail/suisei-color/okhhgclehpcdiaboejnmlbnemmhidgnf) | - | [Subaru](https://chromewebstore.google.com/detail/subaru-color/aakonpejlpclbkfaipadnpinghifgbaj) | - | [Marine](https://chromewebstore.google.com/detail/marine-color/hnhggifdkkoebnadokljhbnhlhkgghcb) | [Luna](https://chromewebstore.google.com/detail/luna-color/lpljpimdpamckmdpjafmhiifphhhhnin) | [Polka](https://chromewebstore.google.com/detail/polka-color/cpelpdaknogakccfajpamfbmmmmdagjl) | [Iroha](https://chromewebstore.google.com/detail/iroha-color/dpbppcihcplhdglljjppiojcehihkepk) |
 
+## ID
+| Gen 1 | Gen 2 | Gen 3 |
+| --- | --- | --- |
+| Risu | Ollie | Zeta |
+| Moona | Anya | Kaela |
+| Iofiteen | Reine | Kobo |
 
-<!-- ## Hololive INDONESIA -->
+## EN
+| Myth | HOPE | Council | Promise | Advent |
+| --- | --- | --- | --- | --- |
+| [Calliope](https://chromewebstore.google.com/detail/calliope-color/bbhogjaklfahmicnmmnjhhlafbblafhc) | [IRyS](https://chromewebstore.google.com/detail/irys-color/debdobkdcfmfafinbbfaiamdjikacldp) | [Fauna](https://chromewebstore.google.com/detail/fauna-color/jjeoiohjjgcjijogghfcmeelgbdpffpl) | [IRyS](https://chromewebstore.google.com/detail/irys-color/debdobkdcfmfafinbbfaiamdjikacldp) | [Shiori](https://chromewebstore.google.com/detail/shiori-color/ahffmakcneljdlljdigljojfnmpefjlp) |
+| [Kiara](https://chromewebstore.google.com/detail/kiara-color/fdbnpeiinieekbbjfdnkekefahbghjdn) | - | [Kronii](https://chromewebstore.google.com/detail/kronii-color/jnbcpffkeniehbfmhkdepoohfppgmagc) | [Fauna](https://chromewebstore.google.com/detail/fauna-color/jjeoiohjjgcjijogghfcmeelgbdpffpl) | [Bijou](https://chromewebstore.google.com/detail/bijou-color/pmeoiaiaamjnnfcmocgfnbkjkchaicdb) |
+| [Ina'nis](https://chromewebstore.google.com/detail/inanis-color/pmcmeamnmiebbnmocijhadbdaghdenll) | - | [Mumei](https://chromewebstore.google.com/detail/mumei-color/cfhokhjmlioogaplcckcggjjnkpofean)<br>[Mumei2](https://chromewebstore.google.com/detail/mumei2-color/ljbcoiojpdhkjcmmdojjppghlcdpnnkp)  | [Kronii](https://chromewebstore.google.com/detail/kronii-color/jnbcpffkeniehbfmhkdepoohfppgmagc)| Nerissa |
+| [Gura](https://chromewebstore.google.com/detail/gura-color/gajogpbeifkhcmlpcajcngnppokhhban) | - | [Baelz](https://chromewebstore.google.com/detail/hakos-color/oeaddkfkaclcdkiiapepcombeailbaof) | [Mumei](https://chromewebstore.google.com/detail/mumei-color/cfhokhjmlioogaplcckcggjjnkpofean) | [Fuwawa](https://chromewebstore.google.com/detail/fuwawa-color/mgidncglbimjaagaphgpdokpepogbpnl) |
+| [Amelia](https://chromewebstore.google.com/detail/amelia-color/ladnlfdcpgofddjhldnlfahidjfkcihe) | - | \<Alum\>Sana | [Baelz](https://chromewebstore.google.com/detail/hakos-color/oeaddkfkaclcdkiiapepcombeailbaof) | [Mococo](https://chromewebstore.google.com/detail/mococo-color/jnhjngpkigmpkfpafkmhafjkccjhihld) |
 
-## Hololive ENGLISH
-|Gen 0|Gen 1|Gen 2|
-|--|--|--|
-||||
-||||
-||||
-||||
-||||
-
-
-<!-- ## Hololive DEV_IS -->
+## DEV_IS
+| Gen 1 |
+| --- |
+| [Ao](https://chromewebstore.google.com/detail/ao-color/fdfpdifcgokbgafpbiboockchphmaanh) |
+| [Kanade](https://chromewebstore.google.com/detail/kanade-color/fjmhjlhljngicfegbjldpjpniifoeegk) |
+| [Ririka](https://chromewebstore.google.com/detail/ririka-color/mhanhmbfhbojpnppfnpbjgeeokfhojep) |
+| [Raden](https://chromewebstore.google.com/detail/raden-color/chiikhdlhoehhiflegehceeoipamoeep) |
+| [Hajime](https://chromewebstore.google.com/detail/hajime-color/achodlbnlcbnhcpeakobopdpmoemkgpg) |
 
 <!-- ## HOLOSTARS -->
 
-<!-- ## HOLOSTARS ENGLISH -->
+<!-- ## HOLOSTARS EN -->
