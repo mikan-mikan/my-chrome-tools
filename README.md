@@ -65,3 +65,4 @@
 55. [Baelz Color](https://chromewebstore.google.com/detail/hakos-color/oeaddkfkaclcdkiiapepcombeailbaof)
 56. [Shiori Color](https://chromewebstore.google.com/detail/shiori-color/ahffmakcneljdlljdigljojfnmpefjlp)
 57. [Bijou Color](https://chromewebstore.google.com/detail/bijou-color/pmeoiaiaamjnnfcmocgfnbkjkchaicdb)
+58. Nerissa Color

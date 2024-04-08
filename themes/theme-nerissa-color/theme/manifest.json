@@ -1,0 +1,24 @@
+{
+  "manifest_version": 3,
+  "name": "Nerissa Color",
+  "version": "1.0.0",
+  "description": "Themes for people who like Nerissa.",
+  "theme": {
+    "colors": {
+      "frame": [21, 47, 183],
+      "frame_inactive": [21, 47, 183],
+      "toolbar": [19, 26, 61],
+      "tab_text": [161, 192, 228],
+      "tab_background_text": [161, 192, 228],
+      "bookmark_text": [161, 192, 228],
+      "ntp_background": [161, 192, 228],
+      "ntp_text": [19, 26, 61],
+      "ntp_link": [19, 26, 61],
+      "button_background": [21, 47, 183],
+      "toolbar_button_icon": [255, 255, 255],
+      "background_tab": [75, 92, 180],
+      "background_tab_inactive": [75, 92, 180],
+      "tab_background_text_inactive": [161, 192, 228]
+    }
+  }
+}
