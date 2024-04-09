@@ -1,0 +1,24 @@
+{
+  "manifest_version": 3,
+  "name": "Risu Color",
+  "version": "1.0.0",
+  "description": "Themes for people who like Risu.",
+  "theme": {
+    "colors": {
+      "frame": [232, 151, 168],
+      "frame_inactive": [232, 151, 168],
+      "toolbar": [94, 65, 49],
+      "tab_text": [242, 236, 224],
+      "tab_background_text": [187, 88, 109],
+      "bookmark_text": [242, 236, 224],
+      "ntp_background": [252, 241, 226],
+      "ntp_text": [88, 64, 65],
+      "ntp_link": [88, 64, 65],
+      "button_background": [232, 151, 168],
+      "toolbar_button_icon": [177, 190, 79],
+      "background_tab": [250, 201, 199],
+      "background_tab_inactive": [250, 201, 199],
+      "tab_background_text_inactive": [187, 88, 109]
+    }
+  }
+}
