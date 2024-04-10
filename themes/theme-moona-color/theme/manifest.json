@@ -1,0 +1,24 @@
+{
+  "manifest_version": 3,
+  "name": "Moona Color",
+  "version": "1.0.0",
+  "description": "Themes for people who like Moona.",
+  "theme": {
+    "colors": {
+      "frame": [253, 238, 190],
+      "frame_inactive": [253, 238, 190],
+      "toolbar": [182, 161, 226],
+      "tab_text": [64, 38, 118],
+      "tab_background_text": [146, 116, 208],
+      "bookmark_text": [64, 38, 118],
+      "ntp_background": [235, 223, 255],
+      "ntp_text": [64, 38, 118],
+      "ntp_link": [64, 38, 118],
+      "button_background": [253, 238, 190],
+      "toolbar_button_icon": [192, 226, 250],
+      "background_tab": [255, 250, 235],
+      "background_tab_inactive": [255, 250, 235],
+      "tab_background_text_inactive": [146, 116, 208]
+    }
+  }
+}

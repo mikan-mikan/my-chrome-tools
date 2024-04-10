@@ -66,4 +66,5 @@
 56. [Shiori Color](https://chromewebstore.google.com/detail/shiori-color/ahffmakcneljdlljdigljojfnmpefjlp)
 57. [Bijou Color](https://chromewebstore.google.com/detail/bijou-color/pmeoiaiaamjnnfcmocgfnbkjkchaicdb)
 58. [Nerissa Color](https://chromewebstore.google.com/detail/nerissa-color/aliffhickcjebddbjdfcepnmklbkepjf)
-59. Risu Color
+59. [Risu Color](https://chromewebstore.google.com/detail/risu-color/gkilbmjjpgcfbfifjeimfkfcbjfkcnpc)
+60. Moona Color

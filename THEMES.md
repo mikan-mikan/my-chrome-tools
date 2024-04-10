@@ -13,7 +13,7 @@
 ## ID
 | Gen 1 | Gen 2 | Gen 3 |
 | --- | --- | --- |
-| Risu | Ollie | Zeta |
+| [Risu](https://chromewebstore.google.com/detail/risu-color/gkilbmjjpgcfbfifjeimfkfcbjfkcnpc) | Ollie | Zeta |
 | Moona | Anya | Kaela |
 | Iofiteen | Reine | Kobo |
 
