@@ -1,0 +1,24 @@
+{
+  "manifest_version": 3,
+  "name": "Iofifteen Color",
+  "version": "1.0.0",
+  "description": "Themes for people who like Iofifteen.",
+  "theme": {
+    "colors": {
+      "frame": [229, 241, 175],
+      "frame_inactive": [229, 241, 175],
+      "toolbar": [255, 192, 209],
+      "tab_text": [194, 92, 114],
+      "tab_background_text": [137, 189, 78],
+      "bookmark_text": [194, 92, 114],
+      "ntp_background": [243, 249, 214],
+      "ntp_text": [99, 137, 56],
+      "ntp_link": [99, 137, 56],
+      "button_background": [229, 241, 175],
+      "toolbar_button_icon": [115, 166, 193],
+      "background_tab": [250, 255, 226],
+      "background_tab_inactive": [250, 255, 226],
+      "tab_background_text_inactive": [137, 189, 78]
+    }
+  }
+}

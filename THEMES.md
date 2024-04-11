@@ -14,7 +14,7 @@
 | Gen 1 | Gen 2 | Gen 3 |
 | --- | --- | --- |
 | [Risu](https://chromewebstore.google.com/detail/risu-color/gkilbmjjpgcfbfifjeimfkfcbjfkcnpc) | Ollie | Zeta |
-| Moona | Anya | Kaela |
+| [Moona](https://chromewebstore.google.com/detail/moona-color/bonnbldgnmpjkagbfelldimfcdfknmdh) | Anya | Kaela |
 | Iofiteen | Reine | Kobo |
 
 ## EN
