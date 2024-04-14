@@ -72,6 +72,6 @@
 62. [Ollie Color](https://chromewebstore.google.com/detail/ollie-color/glhajkdphphcplleoeikjndchjaeeffi)
 63. [Anya Color](https://chromewebstore.google.com/detail/anya-color/mnbjfkpgieemplmdnbhlhpbanlhhffpp)
 64. [Reine Color](https://chromewebstore.google.com/detail/reine-color/ihnbgcpfiekidnmhdcmpdmebkoignomp)
-65. Zeta Color
-66. Kaela Color
-67. Kobo Color
+65. [Zeta Color](https://chromewebstore.google.com/detail/zeta-color/ifobodnhceelenjjbokkbnbieipbfkac)
+66. [Kaela Color](https://chromewebstore.google.com/detail/kaela-color/jbagbafgkejgeajgejoocacpdodhhenb)
+67. [Kobo Color](https://chromewebstore.google.com/detail/kobo-color/gpfmijcheiohagiajonfobibjnpjinok)
