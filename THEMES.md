@@ -14,8 +14,8 @@
 | Gen 1 | Gen 2 | Gen 3 |
 | --- | --- | --- |
 | [Risu](https://chromewebstore.google.com/detail/risu-color/gkilbmjjpgcfbfifjeimfkfcbjfkcnpc) | [Ollie](https://chromewebstore.google.com/detail/ollie-color/glhajkdphphcplleoeikjndchjaeeffi) | Zeta |
-| [Moona](https://chromewebstore.google.com/detail/moona-color/bonnbldgnmpjkagbfelldimfcdfknmdh) | Anya | Kaela |
-| [Iofiteen](https://chromewebstore.google.com/detail/iofifteen-color/fjpmcjefljlbaogefkkbfdiihdldnoio) | Reine | Kobo |
+| [Moona](https://chromewebstore.google.com/detail/moona-color/bonnbldgnmpjkagbfelldimfcdfknmdh) | [Anya](https://chromewebstore.google.com/detail/anya-color/mnbjfkpgieemplmdnbhlhpbanlhhffpp) | Kaela |
+| [Iofiteen](https://chromewebstore.google.com/detail/iofifteen-color/fjpmcjefljlbaogefkkbfdiihdldnoio) | [Reine](https://chromewebstore.google.com/detail/reine-color/ihnbgcpfiekidnmhdcmpdmebkoignomp) | Kobo |
 
 ## EN
 | Myth | HOPE | Council | Promise | Advent |

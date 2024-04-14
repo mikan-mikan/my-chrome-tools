@@ -1,0 +1,24 @@
+{
+  "manifest_version": 3,
+  "name": "Kobo Color",
+  "version": "1.0.0",
+  "description": "Themes for people who like Kobo.",
+  "theme": {
+    "colors": {
+      "frame": [203, 237, 255],
+      "frame_inactive": [203, 237, 255],
+      "toolbar": [71, 77, 115],
+      "tab_text": [131, 207, 224],
+      "tab_background_text": [82, 173, 195],
+      "bookmark_text": [131, 207, 224],
+      "ntp_background": [233, 249, 255],
+      "ntp_text": [71, 77, 115],
+      "ntp_link": [71, 77, 115],
+      "button_background": [203, 237, 255],
+      "toolbar_button_icon": [249, 133, 161],
+      "background_tab": [242, 251, 255],
+      "background_tab_inactive": [242, 251, 255],
+      "tab_background_text_inactive": [82, 173, 195]
+    }
+  }
+}
