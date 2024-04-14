@@ -70,3 +70,4 @@
 60. [Moona Color](https://chromewebstore.google.com/detail/moona-color/bonnbldgnmpjkagbfelldimfcdfknmdh)
 61. [Iofifteen Color](https://chromewebstore.google.com/detail/iofifteen-color/fjpmcjefljlbaogefkkbfdiihdldnoio)
 62. Ollie Color
+63. Anya Color

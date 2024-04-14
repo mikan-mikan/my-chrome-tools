@@ -1,0 +1,24 @@
+{
+  "manifest_version": 3,
+  "name": "Anya Color",
+  "version": "1.0.0",
+  "description": "Themes for people who like Anya.",
+  "theme": {
+    "colors": {
+      "frame": [237, 189, 117],
+      "frame_inactive": [237, 189, 117],
+      "toolbar": [102, 109, 102],
+      "tab_text": [255, 225, 180],
+      "tab_background_text": [173, 110, 17],
+      "bookmark_text": [255, 225, 180],
+      "ntp_background": [217, 196, 189],
+      "ntp_text": [59, 35, 35],
+      "ntp_link": [59, 35, 35],
+      "button_background": [237, 189, 117],
+      "toolbar_button_icon": [195, 196, 149],
+      "background_tab": [255, 225, 180],
+      "background_tab_inactive": [255, 225, 180],
+      "tab_background_text_inactive": [173, 110, 17]
+    }
+  }
+}
