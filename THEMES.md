@@ -15,7 +15,7 @@
 | --- | --- | --- |
 | [Risu](https://chromewebstore.google.com/detail/risu-color/gkilbmjjpgcfbfifjeimfkfcbjfkcnpc) | Ollie | Zeta |
 | [Moona](https://chromewebstore.google.com/detail/moona-color/bonnbldgnmpjkagbfelldimfcdfknmdh) | Anya | Kaela |
-| Iofiteen | Reine | Kobo |
+| [Iofiteen](https://chromewebstore.google.com/detail/iofifteen-color/fjpmcjefljlbaogefkkbfdiihdldnoio) | Reine | Kobo |
 
 ## EN
 | Myth | HOPE | Council | Promise | Advent |
