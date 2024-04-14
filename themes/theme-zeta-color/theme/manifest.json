@@ -1,0 +1,24 @@
+{
+  "manifest_version": 3,
+  "name": "Zeta Color",
+  "version": "1.0.0",
+  "description": "Themes for people who like Zeta.",
+  "theme": {
+    "colors": {
+      "frame": [135, 136, 145],
+      "frame_inactive": [135, 136, 145],
+      "toolbar": [80, 84, 93],
+      "tab_text": [229, 227, 224],
+      "tab_background_text": [229, 227, 224],
+      "bookmark_text": [229, 227, 224],
+      "ntp_background": [201, 198, 200],
+      "ntp_text": [80, 84, 93],
+      "ntp_link": [80, 84, 93],
+      "button_background": [135, 136, 145],
+      "toolbar_button_icon": [179, 191, 241],
+      "background_tab": [178, 165, 146],
+      "background_tab_inactive": [178, 165, 146],
+      "tab_background_text_inactive": [229, 227, 224]
+    }
+  }
+}
