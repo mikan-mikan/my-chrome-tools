@@ -69,6 +69,8 @@
 59. [Risu Color](https://chromewebstore.google.com/detail/risu-color/gkilbmjjpgcfbfifjeimfkfcbjfkcnpc)
 60. [Moona Color](https://chromewebstore.google.com/detail/moona-color/bonnbldgnmpjkagbfelldimfcdfknmdh)
 61. [Iofifteen Color](https://chromewebstore.google.com/detail/iofifteen-color/fjpmcjefljlbaogefkkbfdiihdldnoio)
-62. Ollie Color
+62. [Ollie Color](https://chromewebstore.google.com/detail/ollie-color/glhajkdphphcplleoeikjndchjaeeffi)
 63. Anya Color
 64. Reine Color
+65. Zeta Color
+66. Kaela Color

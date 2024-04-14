@@ -13,7 +13,7 @@
 ## ID
 | Gen 1 | Gen 2 | Gen 3 |
 | --- | --- | --- |
-| [Risu](https://chromewebstore.google.com/detail/risu-color/gkilbmjjpgcfbfifjeimfkfcbjfkcnpc) | Ollie | Zeta |
+| [Risu](https://chromewebstore.google.com/detail/risu-color/gkilbmjjpgcfbfifjeimfkfcbjfkcnpc) | [Ollie](https://chromewebstore.google.com/detail/ollie-color/glhajkdphphcplleoeikjndchjaeeffi) | Zeta |
 | [Moona](https://chromewebstore.google.com/detail/moona-color/bonnbldgnmpjkagbfelldimfcdfknmdh) | Anya | Kaela |
 | [Iofiteen](https://chromewebstore.google.com/detail/iofifteen-color/fjpmcjefljlbaogefkkbfdiihdldnoio) | Reine | Kobo |
 
