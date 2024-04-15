@@ -75,3 +75,4 @@
 65. [Zeta Color](https://chromewebstore.google.com/detail/zeta-color/ifobodnhceelenjjbokkbnbieipbfkac)
 66. [Kaela Color](https://chromewebstore.google.com/detail/kaela-color/jbagbafgkejgeajgejoocacpdodhhenb)
 67. [Kobo Color](https://chromewebstore.google.com/detail/kobo-color/gpfmijcheiohagiajonfobibjnpjinok)
+68. Sana Color

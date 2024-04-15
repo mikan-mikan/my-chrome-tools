@@ -1,0 +1,24 @@
+{
+  "manifest_version": 3,
+  "name": "Sana Color",
+  "version": "1.0.0",
+  "description": "Themes for people who like Sana.",
+  "theme": {
+    "colors": {
+      "frame": [234, 152, 203],
+      "frame_inactive": [234, 152, 203],
+      "toolbar": [64, 65, 108],
+      "tab_text": [240, 181, 214],
+      "tab_background_text": [231, 96, 171],
+      "bookmark_text": [240, 181, 214],
+      "ntp_background": [245, 227, 213],
+      "ntp_text": [51, 52, 101],
+      "ntp_link": [51, 52, 101],
+      "button_background": [234, 152, 203],
+      "toolbar_button_icon": [229, 154, 85],
+      "background_tab": [243, 214, 232],
+      "background_tab_inactive": [243, 214, 232],
+      "tab_background_text_inactive": [231, 96, 171]
+    }
+  }
+}
