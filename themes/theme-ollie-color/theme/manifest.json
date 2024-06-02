@@ -1,24 +1,24 @@
 {
   "manifest_version": 3,
   "name": "Ollie Color",
-  "version": "1.0.0",
+  "version": "2.0.0",
   "description": "Themes for people who like Ollie.",
   "theme": {
     "colors": {
-      "frame": [217, 34, 65],
-      "frame_inactive": [217, 34, 65],
-      "toolbar": [53, 66, 81],
-      "tab_text": [208, 198, 201],
-      "tab_background_text": [53, 66, 81],
-      "bookmark_text": [208, 198, 201],
-      "ntp_background": [208, 198, 201],
-      "ntp_text": [53, 66, 81],
-      "ntp_link": [53, 66, 81],
-      "button_background": [53, 66, 81],
-      "toolbar_button_icon": [208, 198, 201],
-      "background_tab": [210, 165, 174],
-      "background_tab_inactive": [210, 165, 174],
-      "tab_background_text_inactive": [53, 66, 81]
+      "frame": [239, 189, 204],
+      "frame_inactive": [239, 189, 204],
+      "toolbar": [229, 115, 115],
+      "tab_text": [250, 250, 250],
+      "tab_background_text": [229, 115, 115],
+      "bookmark_text": [250, 250, 250],
+      "ntp_background": [254, 228, 228],
+      "ntp_text": [122, 37, 63],
+      "ntp_link": [122, 37, 63],
+      "button_background": [254, 228, 228],
+      "toolbar_button_icon": [122, 37, 63],
+      "background_tab": [254, 228, 228],
+      "background_tab_inactive": [254, 228, 228],
+      "tab_background_text_inactive": [229, 115, 115]
     }
   }
 }
