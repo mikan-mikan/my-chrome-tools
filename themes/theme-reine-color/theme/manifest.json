@@ -1,24 +1,24 @@
 {
   "manifest_version": 3,
   "name": "Reine Color",
-  "version": "1.0.0",
+  "version": "2.0.0",
   "description": "Themes for people who like Reine.",
   "theme": {
     "colors": {
-      "frame": [106, 195, 176],
-      "frame_inactive": [106, 195, 176],
-      "toolbar": [16, 66, 140],
-      "tab_text": [237, 225, 232],
-      "tab_background_text": [39, 137, 116],
-      "bookmark_text": [237, 225, 232],
-      "ntp_background": [220, 245, 231],
-      "ntp_text": [39, 137, 116],
-      "ntp_link": [39, 137, 116],
-      "button_background": [106, 195, 176],
-      "toolbar_button_icon": [255, 255, 255],
-      "background_tab": [170, 228, 216],
-      "background_tab_inactive": [170, 228, 216],
-      "tab_background_text_inactive": [39, 137, 116]
+      "frame": [159, 211, 199],
+      "frame_inactive": [159, 211, 199],
+      "toolbar": [56, 81, 112],
+      "tab_text": [42, 239, 194],
+      "tab_background_text": [20, 45, 76],
+      "bookmark_text": [42, 239, 194],
+      "ntp_background": [56, 81, 112],
+      "ntp_text": [42, 239, 194],
+      "ntp_link": [42, 239, 194],
+      "button_background": [236, 236, 236],
+      "toolbar_button_icon": [227, 213, 84],
+      "background_tab": [236, 236, 236],
+      "background_tab_inactive": [236, 236, 236],
+      "tab_background_text_inactive": [20, 45, 76]
     }
   }
 }
