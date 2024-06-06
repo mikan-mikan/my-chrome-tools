@@ -1,24 +1,24 @@
 {
   "manifest_version": 3,
   "name": "Kaela Color",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "Themes for people who like Kaela.",
   "theme": {
     "colors": {
-      "frame": [255, 226, 119],
-      "frame_inactive": [255, 226, 119],
-      "toolbar": [187, 34, 34],
-      "tab_text": [255, 255, 255],
-      "tab_background_text": [111, 112, 115],
-      "bookmark_text": [255, 255, 255],
+      "frame": [233, 200, 116],
+      "frame_inactive": [233, 200, 116],
+      "toolbar": [163, 67, 67],
+      "tab_text": [255, 243, 200],
+      "tab_background_text": [163, 67, 67],
+      "bookmark_text": [255, 243, 200],
       "ntp_background": [250, 239, 199],
-      "ntp_text": [111, 112, 115],
-      "ntp_link": [111, 112, 115],
-      "button_background": [255, 226, 119],
-      "toolbar_button_icon": [255, 231, 140],
+      "ntp_text": [163, 67, 67],
+      "ntp_link": [163, 67, 67],
+      "button_background": [255, 243, 200],
+      "toolbar_button_icon": [255, 209, 37],
       "background_tab": [255, 243, 200],
       "background_tab_inactive": [255, 243, 200],
-      "tab_background_text_inactive": [111, 112, 115]
+      "tab_background_text_inactive": [163, 67, 67]
     }
   }
 }
