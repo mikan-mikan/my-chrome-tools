@@ -1,24 +1,24 @@
 {
   "manifest_version": 3,
   "name": "Kobo Color",
-  "version": "1.0.0",
+  "version": "2.0.0",
   "description": "Themes for people who like Kobo.",
   "theme": {
     "colors": {
-      "frame": [203, 237, 255],
-      "frame_inactive": [203, 237, 255],
-      "toolbar": [71, 77, 115],
-      "tab_text": [131, 207, 224],
-      "tab_background_text": [82, 173, 195],
-      "bookmark_text": [131, 207, 224],
-      "ntp_background": [233, 249, 255],
-      "ntp_text": [71, 77, 115],
-      "ntp_link": [71, 77, 115],
-      "button_background": [203, 237, 255],
-      "toolbar_button_icon": [249, 133, 161],
-      "background_tab": [242, 251, 255],
-      "background_tab_inactive": [242, 251, 255],
-      "tab_background_text_inactive": [82, 173, 195]
+      "frame": [155, 205, 210],
+      "frame_inactive": [155, 205, 210],
+      "toolbar": [250, 240, 228],
+      "tab_text": [112, 172, 178],
+      "tab_background_text": [112, 172, 178],
+      "bookmark_text": [112, 172, 178],
+      "ntp_background": [160, 197, 217],
+      "ntp_text": [250, 240, 228],
+      "ntp_link": [250, 240, 228],
+      "button_background": [155, 205, 210],
+      "toolbar_button_icon": [201, 147, 158],
+      "background_tab": [194, 219, 217],
+      "background_tab_inactive": [194, 219, 217],
+      "tab_background_text_inactive": [112, 172, 178]
     }
   }
 }
