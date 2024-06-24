@@ -1,0 +1,24 @@
+{
+  "manifest_version": 3,
+  "name": "Raora Color",
+  "version": "1.0.0",
+  "description": "Themes for people who like Raora.",
+  "theme": {
+    "colors": {
+      "frame": [253, 206, 223],
+      "frame_inactive": [253, 206, 223],
+      "toolbar": [242, 190, 209],
+      "tab_text": [214, 107, 148],
+      "tab_background_text": [214, 107, 148],
+      "bookmark_text": [214, 107, 148],
+      "ntp_background": [248, 232, 238],
+      "ntp_text": [214, 107, 148],
+      "ntp_link": [214, 107, 148],
+      "button_background": [248, 232, 238],
+      "toolbar_button_icon": [255, 255, 255],
+      "background_tab": [248, 232, 238],
+      "background_tab_inactive": [248, 232, 238],
+      "tab_background_text_inactive": [214, 107, 148]
+    }
+  }
+}
