@@ -1,0 +1,24 @@
+{
+  "manifest_version": 3,
+  "name": "Cecilia Color",
+  "version": "1.0.0",
+  "description": "Themes for people who like Cecilia.",
+  "theme": {
+    "colors": {
+      "frame": [205, 233, 144],
+      "frame_inactive": [205, 233, 144],
+      "toolbar": [255, 255, 232],
+      "tab_text": [37, 130, 67],
+      "tab_background_text": [255, 255, 232],
+      "bookmark_text": [37, 130, 67],
+      "ntp_background": [255, 212, 212],
+      "ntp_text": [254, 72, 102],
+      "ntp_link": [254, 72, 102],
+      "button_background": [255, 255, 232],
+      "toolbar_button_icon": [254, 72, 102],
+      "background_tab": [170, 203, 115],
+      "background_tab_inactive": [170, 203, 115],
+      "tab_background_text_inactive": [37, 130, 67]
+    }
+  }
+}
