@@ -1,0 +1,24 @@
+{
+  "manifest_version": 3,
+  "name": "Elizabeth Color",
+  "version": "1.0.0",
+  "description": "Themes for people who like Elizabeth.",
+  "theme": {
+    "colors": {
+      "frame": [233, 100, 121],
+      "frame_inactive": [233, 100, 121],
+      "toolbar": [255, 194, 195],
+      "tab_text": [123, 40, 42],
+      "tab_background_text": [255, 194, 195],
+      "bookmark_text": [123, 40, 42],
+      "ntp_background": [255, 194, 195],
+      "ntp_text": [123, 40, 42],
+      "ntp_link": [123, 40, 42],
+      "button_background": [255, 194, 195],
+      "toolbar_button_icon": [121, 154, 184],
+      "background_tab": [125, 68, 69],
+      "background_tab_inactive": [125, 68, 69],
+      "tab_background_text_inactive": [255, 194, 195]
+    }
+  }
+}
