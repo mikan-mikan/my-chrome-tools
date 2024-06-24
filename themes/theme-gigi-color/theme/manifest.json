@@ -1,0 +1,24 @@
+{
+  "manifest_version": 3,
+  "name": "Gigi Color",
+  "version": "1.0.0",
+  "description": "Themes for people who like Elizabeth.",
+  "theme": {
+    "colors": {
+      "frame": [255, 221, 103],
+      "frame_inactive": [255, 221, 103],
+      "toolbar": [255, 138, 92],
+      "tab_text": [68, 68, 68],
+      "tab_background_text": [255, 138, 92],
+      "bookmark_text": [68, 68, 68],
+      "ntp_background": [207, 69, 92],
+      "ntp_text": [255, 255, 255],
+      "ntp_link": [255, 255, 255],
+      "button_background": [255, 138, 92],
+      "toolbar_button_icon": [255, 255, 255],
+      "background_tab": [68, 68, 68],
+      "background_tab_inactive": [68, 68, 68],
+      "tab_background_text_inactive": [255, 138, 92]
+    }
+  }
+}
