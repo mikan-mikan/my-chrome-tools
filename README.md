@@ -76,7 +76,7 @@
 66. [Kaela Color](https://chromewebstore.google.com/detail/kaela-color/jbagbafgkejgeajgejoocacpdodhhenb)
 67. [Kobo Color](https://chromewebstore.google.com/detail/kobo-color/gpfmijcheiohagiajonfobibjnpjinok)
 68. [Sana Color](https://chromewebstore.google.com/detail/sana-color/ccmdlbmlhhohnmpdoilknappcdgkdgjf)
-<!-- 69. [Elizabeth Color]() -->
-<!-- 70. [Gigi Color]() -->
-<!-- 71. [Cecilia Color]() -->
-<!-- 72. [Raora Color]() -->
+69. [Elizabeth Color](https://chromewebstore.google.com/detail/elizabeth-color/hgdnhdmndbimclcapddhkdkhmahgfmdb)
+70. [Gigi Color](https://chromewebstore.google.com/detail/gigi-color/kifojpjppfjhfldhmmkacdnnohnnnedf)
+71. [Cecilia Color](https://chromewebstore.google.com/detail/cecilia-color/bkndeiepomofpficmjmilmabkokkiohd)
+72. [Raora Color](https://chromewebstore.google.com/detail/raora-color/caaggojkdbmkbpnbhiiodgnhoglcnjfg)
