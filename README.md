@@ -83,3 +83,4 @@
 73. Riona Color
 74. Niko Color
 75. Su Color
+76. Chihaya Color

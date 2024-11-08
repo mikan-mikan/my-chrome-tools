@@ -1,0 +1,24 @@
+{
+  "manifest_version": 3,
+  "name": "Chihaya Color",
+  "version": "1.0.0",
+  "description": "Themes for people who like Chihaya.",
+  "theme": {
+    "colors": {
+      "frame": [120, 205, 207],
+      "frame_inactive": [120, 205, 207],
+      "toolbar": [79, 118, 132],
+      "tab_text": [245, 245, 245],
+      "tab_background_text": [79, 118, 132],
+      "bookmark_text": [245, 245, 245],
+      "ntp_background": [193, 229, 230],
+      "ntp_text": [79, 118, 132],
+      "ntp_link": [79, 118, 132],
+      "button_background": [120, 205, 207],
+      "toolbar_button_icon": [245, 245, 245],
+      "background_tab": [245, 245, 245],
+      "background_tab_inactive": [245, 245, 245],
+      "tab_background_text_inactive": [79, 118, 132]
+    }
+  }
+}
