@@ -1,0 +1,24 @@
+{
+  "manifest_version": 3,
+  "name": "Riona Color",
+  "version": "1.0.0",
+  "description": "Themes for people who like Riona.",
+  "theme": {
+    "colors": {
+      "frame": [83, 74, 87],
+      "frame_inactive": [83, 74, 87],
+      "toolbar": [222, 218, 224],
+      "tab_text": [83, 74, 87],
+      "tab_background_text": [193, 187, 196],
+      "bookmark_text": [83, 74, 87],
+      "ntp_background": [184, 175, 177],
+      "ntp_text": [83, 74, 87],
+      "ntp_link": [83, 74, 87],
+      "button_background": [83, 74, 87],
+      "toolbar_button_icon": [206, 69, 124],
+      "background_tab": [73, 62, 68],
+      "background_tab_inactive": [73, 62, 68],
+      "tab_background_text_inactive": [83, 74, 87]
+    }
+  }
+}
