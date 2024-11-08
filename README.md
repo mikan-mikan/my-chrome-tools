@@ -80,3 +80,5 @@
 70. [Gigi Color](https://chromewebstore.google.com/detail/gigi-color/kifojpjppfjhfldhmmkacdnnohnnnedf)
 71. [Cecilia Color](https://chromewebstore.google.com/detail/cecilia-color/bkndeiepomofpficmjmilmabkokkiohd)
 72. [Raora Color](https://chromewebstore.google.com/detail/raora-color/caaggojkdbmkbpnbhiiodgnhoglcnjfg)
+73. Riona Color
+74. Niko Color

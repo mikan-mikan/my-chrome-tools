@@ -27,13 +27,14 @@
 | [Amelia](https://chromewebstore.google.com/detail/amelia-color/ladnlfdcpgofddjhldnlfahidjfkcihe) | - | [\<Alum\>Sana](https://chromewebstore.google.com/detail/sana-color/ccmdlbmlhhohnmpdoilknappcdgkdgjf) | [Baelz](https://chromewebstore.google.com/detail/hakos-color/oeaddkfkaclcdkiiapepcombeailbaof) | - | - |
 
 ## DEV_IS
-| ReGLOSS |
-| --- |
-| [Ao](https://chromewebstore.google.com/detail/ao-color/fdfpdifcgokbgafpbiboockchphmaanh) |
-| [Kanade](https://chromewebstore.google.com/detail/kanade-color/fjmhjlhljngicfegbjldpjpniifoeegk) |
-| [Ririka](https://chromewebstore.google.com/detail/ririka-color/mhanhmbfhbojpnppfnpbjgeeokfhojep) |
-| [Raden](https://chromewebstore.google.com/detail/raden-color/chiikhdlhoehhiflegehceeoipamoeep) |
-| [Hajime](https://chromewebstore.google.com/detail/hajime-color/achodlbnlcbnhcpeakobopdpmoemkgpg) |
+| ReGLOSS | FLOW GLOW |
+| --- | --- |
+| [Ao](https://chromewebstore.google.com/detail/ao-color/fdfpdifcgokbgafpbiboockchphmaanh) | Riona |
+| [Kanade](https://chromewebstore.google.com/detail/kanade-color/fjmhjlhljngicfegbjldpjpniifoeegk) | Niko|
+| [Ririka](https://chromewebstore.google.com/detail/ririka-color/mhanhmbfhbojpnppfnpbjgeeokfhojep) | Su |
+| [Raden](https://chromewebstore.google.com/detail/raden-color/chiikhdlhoehhiflegehceeoipamoeep) | Chihaya |
+| [Hajime](https://chromewebstore.google.com/detail/hajime-color/achodlbnlcbnhcpeakobopdpmoemkgpg) | Vivi |
+
 
 <!-- ## HOLOSTARS -->
 

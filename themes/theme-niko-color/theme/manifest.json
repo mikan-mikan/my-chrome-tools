@@ -1,0 +1,24 @@
+{
+  "manifest_version": 3,
+  "name": "Niko Color",
+  "version": "1.0.0",
+  "description": "Themes for people who like Niko.",
+  "theme": {
+    "colors": {
+      "frame": [255 ,145, 58],
+      "frame_inactive": [255 ,145, 58],
+      "toolbar": [247, 230, 217],
+      "tab_text": [97, 98, 110],
+      "tab_background_text": [255, 255, 255],
+      "bookmark_text": [97, 98, 110],
+      "ntp_background": [255, 245, 238],
+      "ntp_text": [97, 98, 110],
+      "ntp_link": [97, 98, 110],
+      "button_background": [255 ,145, 58],
+      "toolbar_button_icon": [97, 98, 110],
+      "background_tab": [254, 159, 85],
+      "background_tab_inactive": [254, 159, 85],
+      "tab_background_text_inactive": [255, 255, 255]
+    }
+  }
+}
