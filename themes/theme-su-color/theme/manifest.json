@@ -1,0 +1,24 @@
+{
+  "manifest_version": 3,
+  "name": "Su Color",
+  "version": "1.0.0",
+  "description": "Themes for people who like Su.",
+  "theme": {
+    "colors": {
+      "frame": [181, 236, 253],
+      "frame_inactive": [181, 236, 253],
+      "toolbar": [217, 246, 255],
+      "tab_text": [50, 188, 230],
+      "tab_background_text": [118, 196, 221],
+      "bookmark_text": [50, 188, 230],
+      "ntp_background": [202, 235, 246],
+      "ntp_text": [50, 188, 230],
+      "ntp_link": [50, 188, 230],
+      "button_background": [226, 248, 255],
+      "toolbar_button_icon": [208, 161, 219],
+      "background_tab": [195, 240, 254],
+      "background_tab_inactive": [195, 240, 254],
+      "tab_background_text_inactive": [134, 209, 233]
+    }
+  }
+}
