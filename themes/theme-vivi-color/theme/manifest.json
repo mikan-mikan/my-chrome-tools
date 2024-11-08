@@ -1,0 +1,24 @@
+{
+  "manifest_version": 3,
+  "name": "Vivi Color",
+  "version": "1.0.0",
+  "description": "Themes for people who like Vivi.",
+  "theme": {
+    "colors": {
+      "frame": [255, 197, 220],
+      "frame_inactive": [255, 197, 220],
+      "toolbar": [255, 236, 244],
+      "tab_text": [91, 75, 131],
+      "tab_background_text": [145, 104, 159],
+      "bookmark_text": [91, 75, 131],
+      "ntp_background": [255, 223, 236],
+      "ntp_text": [91, 75, 131],
+      "ntp_link": [91, 75, 131],
+      "button_background": [255, 236, 244],
+      "toolbar_button_icon": [226, 96, 208],
+      "background_tab": [245, 171, 210],
+      "background_tab_inactive": [245, 171, 210],
+      "tab_background_text_inactive": [145, 104, 159]
+    }
+  }
+}

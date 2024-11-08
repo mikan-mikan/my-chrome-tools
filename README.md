@@ -84,3 +84,4 @@
 74. Niko Color
 75. Su Color
 76. Chihaya Color
+77. Vivi Color
