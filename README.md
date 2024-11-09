@@ -80,8 +80,8 @@
 70. [Gigi Color](https://chromewebstore.google.com/detail/gigi-color/kifojpjppfjhfldhmmkacdnnohnnnedf)
 71. [Cecilia Color](https://chromewebstore.google.com/detail/cecilia-color/bkndeiepomofpficmjmilmabkokkiohd)
 72. [Raora Color](https://chromewebstore.google.com/detail/raora-color/caaggojkdbmkbpnbhiiodgnhoglcnjfg)
-73. Riona Color
-74. Niko Color
-75. Su Color
-76. Chihaya Color
-77. Vivi Color
+73. [Riona Color](https://chromewebstore.google.com/detail/riona-color/kponmgbjbpbhgccjdblnnipjpecbalkd)
+74. [Niko Color](https://chromewebstore.google.com/detail/niko-color/eldmnmcjbiekbbglkadeonapdlcalhnc)
+75. [Su Color](https://chromewebstore.google.com/detail/su-color/cohhklfmanciajgkjnkpicccmognmejo)
+76. [Chihaya Color](https://chromewebstore.google.com/detail/chihaya-color/pahgepbaaimppgmephaocmmojckpighl)
+77. [Vivi Color](https://chromewebstore.google.com/detail/vivi-color/adpljldomlmkihfachpkildfgenfhpfg)

@@ -29,11 +29,11 @@
 ## DEV_IS
 | ReGLOSS | FLOW GLOW |
 | --- | --- |
-| [Ao](https://chromewebstore.google.com/detail/ao-color/fdfpdifcgokbgafpbiboockchphmaanh) | Riona |
-| [Kanade](https://chromewebstore.google.com/detail/kanade-color/fjmhjlhljngicfegbjldpjpniifoeegk) | Niko|
-| [Ririka](https://chromewebstore.google.com/detail/ririka-color/mhanhmbfhbojpnppfnpbjgeeokfhojep) | Su |
-| [Raden](https://chromewebstore.google.com/detail/raden-color/chiikhdlhoehhiflegehceeoipamoeep) | Chihaya |
-| [Hajime](https://chromewebstore.google.com/detail/hajime-color/achodlbnlcbnhcpeakobopdpmoemkgpg) | Vivi |
+| [Ao](https://chromewebstore.google.com/detail/ao-color/fdfpdifcgokbgafpbiboockchphmaanh) | [Riona](https://chromewebstore.google.com/detail/riona-color/kponmgbjbpbhgccjdblnnipjpecbalkd) |
+| [Kanade](https://chromewebstore.google.com/detail/kanade-color/fjmhjlhljngicfegbjldpjpniifoeegk) | [Niko](https://chromewebstore.google.com/detail/niko-color/eldmnmcjbiekbbglkadeonapdlcalhnc)|
+| [Ririka](https://chromewebstore.google.com/detail/ririka-color/mhanhmbfhbojpnppfnpbjgeeokfhojep) | [Su](https://chromewebstore.google.com/detail/su-color/cohhklfmanciajgkjnkpicccmognmejo) |
+| [Raden](https://chromewebstore.google.com/detail/raden-color/chiikhdlhoehhiflegehceeoipamoeep) | [Chihaya](https://chromewebstore.google.com/detail/chihaya-color/pahgepbaaimppgmephaocmmojckpighl) |
+| [Hajime](https://chromewebstore.google.com/detail/hajime-color/achodlbnlcbnhcpeakobopdpmoemkgpg) | [Vivi](https://chromewebstore.google.com/detail/vivi-color/adpljldomlmkihfachpkildfgenfhpfg) |
 
 
 <!-- ## HOLOSTARS -->
